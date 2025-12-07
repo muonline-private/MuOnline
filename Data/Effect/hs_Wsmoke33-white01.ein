@@ -1,0 +1,148 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 0.3000000119209290,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.1538075208663940,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.4000000059604645,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 0.6999999880790710 ],
+					"MinBrightness" : 0.4000000059604645,
+					"MinColor" : [ 1.0, 1.0, 1.0, 0.6999999880790710 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 7.0,
+					"Min" : 4.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 4.712388992309570,
+					"Min" : 0.7853981852531433,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 1.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1700000017881393,
+					"Value" : 0.6078431606292725
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.2657289505004883,
+					"Time" : 0.0,
+					"Value" : 0.6999999880790710
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : -0.4835435450077057,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : -0.8137702345848083,
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "hs_Wsmoke33-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 5.0,
+	"SpaceIsLocal" : false,
+	"SpeedScale" : 1.0,
+	"Texture" : "Data\\Effect\\smoke01.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

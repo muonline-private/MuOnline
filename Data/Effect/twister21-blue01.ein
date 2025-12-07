@@ -1,0 +1,402 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 0.8700000047683716,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.042999982833862,
+			"Color" : [ 0.6274510025978088, 1.0, 1.0, 0.8000000119209290 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -1.745329260826111,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 1.100000023841858
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.05000000074505806, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : -1.143190622329712,
+			"Scale" : 0.6999999880790710,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.100000023841858,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.042999982833862,
+			"Color" : [ 0.3411764800548553, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.094395160675049,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.100000023841858,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.1000000014901161, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.8999999761581421,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.042999982833862,
+			"Color" : [ 0.0, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.443460941314697,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.2000000029802322, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.100000023841858,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.4350000023841858,
+			"Color" : [ 0.3411764800548553, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.792526721954346,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.100000023841858,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.250, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.100000023841858,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.9570000171661377,
+			"Color" : [ 0.3411764800548553, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.792526721954346,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.100000023841858,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.07999999821186066, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.6999999880790710,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic01_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.7829999923706055,
+			"Color" : [ 0.3411764800548553, 0.7529411911964417, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.792526721954346,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.100000023841858,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, -0.1500000059604645, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : -1.911135554313660,
+			"Scale" : 0.6000000238418579,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic01_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		}
+	],
+	"Color" : [ 0.9137254953384399, 1.0, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : -1.396263360977173,
+			"Curve" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.50,
+					"Value" : 1.149999976158142
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 2
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twister21-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 10.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+	"Type" : 1,
+	"Width" : 1.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

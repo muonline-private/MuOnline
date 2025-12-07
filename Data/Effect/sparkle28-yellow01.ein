@@ -1,0 +1,146 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : true,
+					"Height" : 60.0,
+					"Radius" : 5.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.4244748055934906,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.50,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 1.50,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 4.0,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 6.0,
+					"Min" : 2.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : -30.0,
+					"Min" : -25.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2399999946355820,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.7699999809265137,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.0,
+			"Min" : 0.0,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.6044294238090515,
+					"Time" : 0.0,
+					"Value" : 0.1509999930858612
+				},
+				
+				{
+					"Tangent" : 1.828214526176453,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 3.0,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "sparkle28-yellow01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 0.02500000037252903,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 3.0,
+	"Texture" : "Data\\Effect\\flare01_yellow.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

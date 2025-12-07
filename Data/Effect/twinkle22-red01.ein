@@ -1,0 +1,202 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.200000047683716,
+			"Color" : [ 1.0, 0.2588235437870026, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 0.6999999880790710
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 4.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "hieroglyphic01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.250,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\hs_star01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 0.2588235437870026, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : 3.141592741012573,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "magic_ground1_3",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.07999999821186066,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\magic_ground1_3.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 0.2588235437870026, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -3.141592741012573,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "magic_ground1_4",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 0.1299999952316284,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\magic_ground1_4.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.0,
+			"Color" : [ 1.0, 0.5019608139991760, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -0.8726646304130554,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "twligt02",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 6.283185482025146,
+			"Scale" : 0.1400000005960464,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\twlight2.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		}
+	],
+	"Color" : [ 1.0, 0.0, 0.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.1800000071525574,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.6200000047683716,
+					"Value" : 0.6999999880790710
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 4.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twinkle22-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 50.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\hs_hieroglyphics02.OZJ",
+	"Type" : 1,
+	"Width" : 1.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

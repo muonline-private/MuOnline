@@ -1,0 +1,47 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 1.50,
+	"Color" : [ 1.0, 1.0, 1.0, 0.6000000238418579 ],
+	"Components" : 
+	[
+		
+		{
+			"HorizentalTiles" : 4,
+			"TileIndices" : 
+			[
+				
+				{
+					"Tangent" : 15.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 15.0,
+					"Time" : 0.9411764740943909,
+					"Value" : 15.0
+				}
+			],
+			"Type" : 3,
+			"VerticalTiles" : 4
+		}
+	],
+	"Duration" : 1.350000023841858,
+	"Height" : 1.50,
+	"Looping" : true,
+	"Name" : "hs_fire14-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\Fire_01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

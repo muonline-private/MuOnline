@@ -1,0 +1,148 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 0.1000000014901161, 0.1000000014901161, 0.6999999880790710 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : 
+					[
+						0.0627451017498970,
+						0.09019608050584793,
+						0.1764705926179886,
+						0.9800000190734863
+					],
+					"MinBrightness" : 4.592000007629395,
+					"MinColor" : 
+					[
+						0.3607843220233917,
+						0.478431373834610,
+						0.9490196108818054,
+						0.1650000065565109
+					],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.200000047683716,
+					"Min" : 0.8000000119209290,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 6.283185482025146,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 1.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.6999999880790710,
+					"Min" : 0.50,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 5,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 5,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2000000029802322,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.7699999809265137,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 6.283185482025146,
+			"Min" : 5.235987663269043,
+			"Type" : 3
+		},
+		
+		{
+			"HorizentalTiles" : 1,
+			"MaxTileIndex" : 0,
+			"MinTileIndex" : 0,
+			"TileIndices" : null,
+			"Type" : 6,
+			"VerticalTiles" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 0.50,
+	"Looping" : true,
+	"MaxParticle" : 10,
+	"Name" : "fog01-blue10",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\clouds2.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

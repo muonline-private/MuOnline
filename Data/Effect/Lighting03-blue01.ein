@@ -1,0 +1,144 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 1.299999952316284,
+			"Color" : [ 0.7529411911964417, 0.6274510025978088, 1.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.50
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.50
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 3.0,
+			"Height" : 0.3000000119209290,
+			"Looping" : true,
+			"Name" : "twinkle16-magenta01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 10.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\bluewave0001_R.OZJ",
+			"Type" : 1,
+			"Width" : 0.3000000119209290
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : true,
+					"Shape" : 0,
+					"Size" : [ 2.0, 2.0, 2.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 0.6274510025978088, 0.8196078538894653, 1.0, 1.0 ],
+					"MinBrightness" : 1.0,
+					"MinColor" : [ 0.6274510025978088, 0.8196078538894653, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.3000000119209290,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 2.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.1000000014901161,
+					"Min" : 0.1000000014901161,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 5,
+			"MaxEmissionCount" : 1,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : null,
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 0.6274510025978088, 0.8196078538894653, 1.0 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				}
+			],
+			"Type" : 1
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.0,
+	"Looping" : true,
+	"MaxParticle" : 4,
+	"Name" : "Lighting03-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\pannilleff02_R.OZJ",
+	"Type" : 0
+}

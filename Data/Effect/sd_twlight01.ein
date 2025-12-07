@@ -1,0 +1,195 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 1.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.6999999880790710,
+			"Color" : [ 1.0, 1.0, 0.6274510025978088, 0.8999999761581421 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -5.235987663269043,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "sd_twlight02",
+			"Position" : [ 0.0, 0.05000000074505806, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.399999976158142,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sd_twlight02.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.6000000238418579,
+			"Color" : [ 1.0, 1.0, 0.6274510025978088, 0.8000000119209290 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -3.490658521652222,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "sd_twlight03",
+			"Position" : [ 0.0, 0.1199999973177910, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.799999952316284,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sd_twlight03.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 3.129999876022339,
+			"Color" : [ 0.5019608139991760, 0.0, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -1.745329260826111,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "sd_twlight04",
+			"Position" : [ 0.0, 0.1299999952316284, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 2.799999952316284,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 1.304000020027161,
+			"Color" : [ 0.5019608139991760, 0.0, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -1.919862151145935,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "sd_twlight05",
+			"Position" : [ 0.0, 0.1299999952316284, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 3.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 2.434999942779541,
+			"Color" : [ 0.5019608139991760, 0.0, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"Constant" : -2.094395160675049,
+					"Curve" : null,
+					"Type" : 1
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "sd_twlight06",
+			"Position" : [ 0.0, 0.1299999952316284, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 3.200000047683716,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\sdmagic_SKY.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		}
+	],
+	"Color" : [ 1.0, 1.0, 0.6274510025978088, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"Constant" : -8.726646423339844,
+			"Curve" : null,
+			"Type" : 1
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "sd_twlight01",
+	"Position" : [ 5.0, 0.0, 0.0 ],
+	"Rotation" : [ 3.141592741012573, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 1.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\sd_twlight01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

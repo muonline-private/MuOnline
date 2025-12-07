@@ -1,0 +1,121 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 1.0, 1.0, 1.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 0.0, 0.0, 0.8040000200271606 ],
+					"MinBrightness" : 1.963999986648560,
+					"MinColor" : [ 1.0, 0.3411764800548554, 0.3411764800548554, 0.9110000133514404 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.1000000014901161,
+					"Min" : 0.05000000074505806,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025147,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.0,
+					"Min" : 1.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 0.1000000014901161,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.3000000119209290,
+			"Frequency" : 2,
+			"MaxEmissionCount" : 2,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : null,
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 1.0, 0.0, 0.0 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.0, 0.0, 0.0 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.1860000044107437
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.3950000107288361,
+					"Value" : 0.6000000238418579
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.3600000143051148
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.0,
+	"Looping" : true,
+	"MaxParticle" : 10,
+	"Name" : "Lighting01-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\lighting_mega01.OZJ",
+	"Type" : 0
+}

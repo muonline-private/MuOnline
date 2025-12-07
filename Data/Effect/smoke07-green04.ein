@@ -1,0 +1,211 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 2.0,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.2976568937301636,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.9799999594688416,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 0.3529999852180481 ],
+					"MinBrightness" : 0.9799999594688416,
+					"MinColor" : [ 1.0, 1.0, 1.0, 0.3529999852180481 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.50,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 2.094395160675049,
+					"Min" : 2.094395160675049,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.6629999876022339,
+							"Value" : 0.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.7670000195503235,
+							"Value" : 1.961680054664612
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 2.105520009994507
+						}
+					],
+					"Max" : 4.0,
+					"Min" : 2.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 5.0,
+					"Min" : 5.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 3.0,
+			"Frequency" : 3,
+			"MaxEmissionCount" : 5,
+			"MinEmissionCount" : 5,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.6700000166893005,
+					"Value" : 0.8352941274642944
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 0.0, 0.5019608139991760, 1.0 ]
+				},
+				
+				{
+					"Time" : 0.6000000238418579,
+					"Value" : [ 0.6274510025978088, 1.0, 1.0 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 0.8156862854957581, 0.9803921580314636, 0.8392156958580017 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 5.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.7853981852531433,
+			"Min" : -0.7853981852531433,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.5862965583801270,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.4880000054836273,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.7210000157356262,
+					"Value" : 1.160950064659119
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 3.186480045318604
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.2746199667453766
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 10,
+	"Name" : "smoke07-green04",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 1.0,
+	"Texture" : "Data\\Effect\\backLight.OZJ",
+	"Type" : 0
+}

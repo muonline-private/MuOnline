@@ -1,0 +1,235 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : false,
+							"RandomDirection" : false,
+							"Shape" : 0,
+							"Size" : [ 2.0, 2.0, 2.0 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 0.7529411911964417, 0.6039215922355652, 0.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 1.0, 0.6274510025978088, 0.6274510025978088, 0.8750 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.2000000029802322,
+							"Min" : 0.1000000014901161,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : -3.141592741012573,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 2.50,
+							"Min" : 1.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 2.0,
+							"Min" : 1.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 2,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.570796370506287,
+					"Min" : -0.7853981852531433,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.1860000044107437
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.3950000107288361,
+							"Value" : 0.6000000238418579
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.3600000143051147
+						}
+					],
+					"Type" : 4
+				}
+			],
+			"Duration" : 1.0,
+			"LengthScale" : 0.0,
+			"Looping" : true,
+			"MaxParticle" : 4,
+			"Name" : "Lighting05-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\lighting_mega03.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 2.0, 2.0, 2.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 0.5019608139991760, 0.0, 1.0 ],
+					"MinBrightness" : 0.8000000119209290,
+					"MinColor" : [ 1.0, 0.3411764800548553, 0.3411764800548553, 0.8750 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.2000000029802322,
+					"Min" : 0.1000000014901161,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.50,
+					"Min" : 1.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.0,
+					"Min" : 1.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 2,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 1.570796370506287,
+			"Min" : -0.7853981852531433,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.1860000044107437
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.3950000107288361,
+					"Value" : 0.6000000238418579
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.3600000143051147
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 1.0,
+	"LengthScale" : 0.0,
+	"Looping" : true,
+	"MaxParticle" : 4,
+	"Name" : "Lighting05-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\lighting_mega01.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

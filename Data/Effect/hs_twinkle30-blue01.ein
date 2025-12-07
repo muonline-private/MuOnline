@@ -1,0 +1,101 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Brightness" : 0.6999999880790710,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 0.6999999880790710,
+			"Color" : [ 1.0, 0.9843137264251709, 0.9411764740943909, 0.6000000238418579 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.8999999761581421
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 3.0,
+			"Height" : 3.0,
+			"Looping" : false,
+			"Name" : "hs_twinkle29-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 3.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\hs_lightmarks_blue01.OZJ",
+			"Type" : 1,
+			"Width" : 2.50,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		}
+	],
+	"Color" : [ 1.0, 1.0, 0.0, 0.6000000238418579 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.6999999880790710
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.6999999880790710
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 3.0,
+	"Height" : 3.0,
+	"Looping" : true,
+	"Name" : "hs_twinkle30-blue01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 4.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\hs_lightmarks_blue01.OZJ",
+	"Type" : 1,
+	"Width" : 2.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

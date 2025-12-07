@@ -1,0 +1,137 @@
+
+{
+	"Billboarding" : 3,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"Radius" : -1.0,
+					"RandomDirection" : false,
+					"Shape" : 2,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.939000010490417,
+					"MaxColor" : [ 1.0, 0.7529411911964417, 0.6274510025978088, 1.0 ],
+					"MinBrightness" : 1.939000010490417,
+					"MinColor" : [ 1.0, 0.7529411911964417, 0.6274510025978088, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 2.50,
+					"Min" : 2.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 0.0,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.07000000029802322,
+					"Min" : 0.02999999932944775,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.3000000119209290,
+					"Min" : 0.1500000059604645,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 3,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 0,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2399999946355820,
+					"Value" : 0.4235294163227081
+				},
+				
+				{
+					"Time" : 0.6399999856948853,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.8299999833106995,
+					"Value" : 0.6980392336845398
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : [ 1.0, 1.0, 0.0 ]
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : [ 1.0, 0.0, 0.0 ]
+				}
+			],
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.0, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "sd_twlight03",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 0.0,
+	"Texture" : "Data\\Effect\\flareBlue.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

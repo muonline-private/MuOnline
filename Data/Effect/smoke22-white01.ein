@@ -1,0 +1,486 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : false,
+							"EmitFromShell" : false,
+							"Height" : 1.0,
+							"Radius" : 0.0,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.01745506562292576,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 1.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.50,
+							"Min" : 1.299999952316284,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 4.0,
+							"Min" : 4.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 4.0,
+					"Frequency" : 1,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.6499999761581421,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.141592741012573,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 1.020889401435852,
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.5469999909400940,
+							"Value" : 0.279200017452240
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.8019999861717224
+						}
+					],
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.8828200101852417
+						}
+					],
+					"Type" : 5
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 5.0,
+			"Looping" : true,
+			"MaxParticle" : 25,
+			"Name" : "smoke22-white01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 5.0,
+			"Texture" : "Data\\Effect\\waterFall2.OZJ",
+			"Type" : 0,
+			"maxduration" : 10.0,
+			"minduration" : 4.0,
+			"parentduration" : true,
+			"randomduration" : true
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : false,
+							"EmitFromShell" : false,
+							"Height" : 1.0,
+							"Radius" : 0.0,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.01745506562292576,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 0.9764705896377563, 0.2392156869173050, 0.01960784383118153, 0.50 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 0.9764705896377563, 0.2392156869173050, 0.01960784383118153, 0.50 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 1.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 5.0,
+							"Min" : 5.0,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 4.0,
+							"Min" : 4.0,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 4.0,
+					"Frequency" : 1,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7900000214576721,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.141592741012573,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 1.020889401435852,
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.5469999909400940,
+							"Value" : 0.279200017452240
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.8019999861717224
+						}
+					],
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.8828200101852417
+						}
+					],
+					"Type" : 5
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 5.0,
+			"Looping" : true,
+			"MaxParticle" : 25,
+			"Name" : "fire12-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 5.0,
+			"Texture" : "Data\\Effect\\lightmarks.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : true
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : false,
+					"Height" : 1.0,
+					"Radius" : 0.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.01745506562292576,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 3.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 3.0,
+					"MinColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.0,
+					"Min" : 1.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.50,
+					"Min" : 1.299999952316284,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 4.0,
+					"Min" : 4.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 4.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.6800000071525574,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 3.141592741012573,
+			"Min" : -3.141592741012573,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 1.020889401435852,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.5469999909400940,
+					"Value" : 0.279200017452240
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.8019999861717224
+				}
+			],
+			"Type" : 4
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.8828200101852417
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 5.0,
+	"Looping" : true,
+	"MaxParticle" : 25,
+	"Name" : "smoke22-white01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 15.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 5.0,
+	"Texture" : "Data\\Effect\\waterFall2.OZJ",
+	"Type" : 0,
+	"maxduration" : 10.0,
+	"minduration" : 4.0,
+	"parentduration" : false,
+	"randomduration" : true
+}

@@ -1,0 +1,812 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : true,
+							"EmitFromShell" : false,
+							"Height" : 0.1000000014901161,
+							"Radius" : 0.0,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.08748865872621536,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 0.3510000109672546,
+							"MaxColor" : [ 1.0, 0.5019608139991760, 0.3411764800548553, 0.50 ],
+							"MinBrightness" : 0.3510000109672546,
+							"MinColor" : [ 1.0, 0.5019608139991760, 0.3411764800548553, 0.50 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 2.599999904632568,
+							"Min" : 2.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.50,
+							"Min" : 1.0,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.200000047683716,
+							"Min" : 0.6000000238418579,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 1,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7300000190734863,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 1.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Tangent" : 0.1477660983800888,
+							"Time" : 1.0,
+							"Value" : 0.5699999928474426
+						}
+					],
+					"Type" : 4
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 0.50,
+			"Looping" : true,
+			"MaxParticle" : 10,
+			"Name" : "Smoke",
+			"Position" : [ 0.0, 0.0, 0.1000000014901161 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : false,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\smoke01.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"Cylinder" : false,
+							"EmitFromShell" : false,
+							"Height" : 0.50,
+							"Radius" : 0.1000000014901161,
+							"RandomDirection" : false,
+							"Shape" : 1,
+							"Tangent" : 0.2679491937160492,
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : [ 1.0, 0.2588235437870026, 0.0, 1.0 ],
+							"MinBrightness" : 1.0,
+							"MinColor" : [ 1.0, 0.2588235437870026, 0.0, 1.0 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.200000047683716,
+							"Min" : 0.50,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.05000000074505806,
+							"Min" : 0.02999999932944775,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 3.0,
+							"Min" : 1.799999952316284,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 4,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.2399999946355820,
+							"Value" : 0.3333333432674408
+						},
+						
+						{
+							"Time" : 0.5899999737739563,
+							"Value" : 0.8627451062202454
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Constant" : [ 0.0, 0.0, 0.0 ],
+					"CurveX" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : -1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.250,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.50,
+							"Value" : -1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.750,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : -1.0
+						}
+					],
+					"CurveY" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : -1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.250,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.50,
+							"Value" : -1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.750,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"CurveZ" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 0.0
+						}
+					],
+					"Type" : 2
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 6.283185482025146,
+					"Min" : -6.283185482025146,
+					"Type" : 3
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 0.6999999880790710,
+			"Looping" : true,
+			"MaxParticle" : 10,
+			"Name" : "Sparkle21-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.0,
+			"Texture" : "Data\\Effect\\Spark01_mono.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 2.50,
+			"Color" : [ 1.0, 0.5019608139991760, 0.0, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.50
+						},
+						
+						{
+							"Time" : 0.2000000029802322,
+							"Value" : 0.4078431427478790
+						},
+						
+						{
+							"Time" : 0.3899999856948853,
+							"Value" : 0.50
+						},
+						
+						{
+							"Time" : 0.5299999713897705,
+							"Value" : 0.3490196168422699
+						},
+						
+						{
+							"Time" : 0.7099999785423279,
+							"Value" : 0.4549019634723663
+						},
+						
+						{
+							"Time" : 0.8500000238418579,
+							"Value" : 0.2588235437870026
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.50
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 0.05000000074505806,
+			"Looping" : true,
+			"Name" : "twinkle20-red01",
+			"Position" : [ 0.0, 0.0, 0.6999999880790710 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 100.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\lightmarks.OZJ",
+			"Type" : 1,
+			"Width" : 0.03999999910593033,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Brightness" : 2.0,
+			"Color" : [ 0.7529411911964417, 0.2823529541492462, 0.0, 0.8000000119209290 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.50
+						},
+						
+						{
+							"Time" : 0.1099999994039536,
+							"Value" : 0.3921568691730499
+						},
+						
+						{
+							"Time" : 0.2399999946355820,
+							"Value" : 0.50
+						},
+						
+						{
+							"Time" : 0.3899999856948853,
+							"Value" : 0.2588235437870026
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 0.4549019634723663
+						},
+						
+						{
+							"Time" : 0.5899999737739563,
+							"Value" : 0.3176470696926117
+						},
+						
+						{
+							"Time" : 0.7400000095367432,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.8299999833106995,
+							"Value" : 0.3490196168422699
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.50
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 5.0,
+			"Height" : 0.03999999910593033,
+			"Looping" : true,
+			"Name" : "twinkle21-red01",
+			"Position" : [ 0.0, 0.0, 1.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 100.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\lightmarks.OZJ",
+			"Type" : 1,
+			"Width" : 0.02500000037252903,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : false,
+							"RandomDirection" : false,
+							"Shape" : 0,
+							"Size" : [ 0.0, 0.0, 0.0 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 0.6999999880790710,
+							"MaxColor" : [ 1.0, 1.0, 0.0, 0.3000000119209290 ],
+							"MinBrightness" : 0.6999999880790710,
+							"MinColor" : [ 1.0, 1.0, 0.0, 0.3000000119209290 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.8000000119209290,
+							"Min" : 0.50,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.8000000119209290,
+							"Min" : 0.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.799999952316284,
+							"Min" : 1.50,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 1,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.141592741012573,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : -1.865426421165466,
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"Type" : 4
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 12,
+			"Name" : "hs_Wfire016-red01",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 0.8000000119209290,
+			"SpaceIsLocal" : false,
+			"SpeedScale" : 0.05000000074505806,
+			"Texture" : "Data\\Effect\\firehik02.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : false,
+							"RandomDirection" : false,
+							"Shape" : 0,
+							"Size" : [ 0.0, 0.0, 0.0 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 0.6999999880790710,
+							"MaxColor" : [ 1.0, 0.0, 0.0, 0.3000000119209290 ],
+							"MinBrightness" : 0.6999999880790710,
+							"MinColor" : [ 1.0, 0.0, 0.0, 0.3000000119209290 ],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.8000000119209290,
+							"Min" : 0.50,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.8000000119209290,
+							"Min" : 0.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.799999952316284,
+							"Min" : 1.50,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 1,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 3.141592741012573,
+					"Min" : -3.141592741012573,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : -1.865426421165466,
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"Type" : 4
+				}
+			],
+			"Duration" : 5.0,
+			"LengthScale" : 1.0,
+			"Looping" : true,
+			"MaxParticle" : 10,
+			"Name" : "hs_Wfire018-red01",
+			"Position" : [ 0.0, 0.0, 0.4000000059604645 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 0.6000000238418579,
+			"SpaceIsLocal" : false,
+			"SpeedScale" : 0.05000000074505806,
+			"Texture" : "Data\\Effect\\firehik01.OZJ",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : false,
+					"RandomDirection" : false,
+					"Shape" : 0,
+					"Size" : [ 0.0, 0.0, 0.0 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 0.50,
+					"MaxColor" : [ 1.0, 0.0, 0.0, 0.3000000119209290 ],
+					"MinBrightness" : 0.50,
+					"MinColor" : [ 1.0, 0.0, 0.0, 0.3000000119209290 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.50,
+					"Min" : 0.3000000119209290,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.8000000119209290,
+					"Min" : 0.50,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.600000023841858,
+					"Min" : 1.299999952316284,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 3.141592741012573,
+			"Min" : -3.141592741012573,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : -1.865426421165466,
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 1.0,
+	"Looping" : true,
+	"MaxParticle" : 10,
+	"Name" : "hs_Wfire018-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : false,
+	"SpeedScale" : 0.05000000074505806,
+	"Texture" : "Data\\Effect\\firehik03.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

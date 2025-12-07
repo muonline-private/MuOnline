@@ -1,0 +1,323 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 2.0,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 2.355999946594238,
+			"Color" : [ 1.0, 1.0, 1.0, 0.2599999904632568 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.5299999713897705,
+							"Value" : 0.3176470696926117
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -2.094395160675049,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 4.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\firering01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 2.0,
+			"Color" : [ 1.0, 1.0, 1.0, 0.3840000033378601 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.5299999713897705,
+							"Value" : 0.3176470696926117
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -2.094395160675049,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 4.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 2.094395160675049, 2.094395160675049, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\firering01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 2.0,
+			"Color" : [ 1.0, 1.0, 1.0, 0.3970000147819519 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 0.5299999713897705,
+							"Value" : 0.3176470696926117
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				},
+				
+				{
+					"Constant" : -2.094395160675049,
+					"Curve" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : 
+					[
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.0,
+							"Value" : 1.0
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 0.4880000054836273,
+							"Value" : 0.9501699805259705
+						},
+						
+						{
+							"Tangent" : 0.0,
+							"Time" : 1.0,
+							"Value" : 1.0
+						}
+					],
+					"Type" : 2
+				}
+			],
+			"Duration" : 4.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ -2.094395160675049, -2.094395160675049, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\firering01.OZJ",
+			"Type" : 1,
+			"Width" : 1.0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : false,
+			"randomduration" : false
+		}
+	],
+	"Color" : [ 1.0, 1.0, 1.0, 0.4000000059604645 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.8000000119209290
+				},
+				
+				{
+					"Time" : 0.5299999713897705,
+					"Value" : 0.3176470696926117
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		},
+		
+		{
+			"Constant" : -2.094395160675049,
+			"Curve" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 1.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.4880000054836273,
+					"Value" : 0.9501699805259705
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 2
+		}
+	],
+	"Duration" : 4.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "twister05-red02",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 2.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\firering01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

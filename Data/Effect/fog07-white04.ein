@@ -1,0 +1,70 @@
+
+{
+	"Billboarding" : 1,
+	"Blending" : 2,
+	"Brightness" : 5.479000091552734,
+	"Color" : [ 1.0, 1.0, 1.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.4799999892711639,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.9100000262260437,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.1159999966621399,
+					"Value" : 0.02300000004470348
+				},
+				
+				{
+					"Tangent" : 0.3791988492012024,
+					"Time" : 0.1630000025033951,
+					"Value" : 1.292739987373352
+				}
+			],
+			"Type" : 2
+		}
+	],
+	"Duration" : 5.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "fog07-white04",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 0.4000000059604645,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\Shockwave.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}

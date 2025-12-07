@@ -1,0 +1,442 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 1,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 2,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : true,
+							"RandomDirection" : true,
+							"Shape" : 0,
+							"Size" : [ 1.0, 1.50, 0.50 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : 
+							[
+								0.7058823704719543,
+								0.7058823704719543,
+								0.7058823704719543,
+								0.6999999880790710
+							],
+							"MinBrightness" : 0.6000000238418579,
+							"MinColor" : 
+							[
+								0.3529411852359772,
+								0.3529411852359772,
+								0.3529411852359772,
+								0.4000000059604645
+							],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 8.0,
+							"Min" : 1.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.200000047683716,
+							"Min" : 0.8000000119209290,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.05999999865889549,
+							"Min" : 0.01999999955296516,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 6,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2000000029802322,
+							"Value" : 0.6000000238418579
+						},
+						
+						{
+							"Time" : 0.4799999892711639,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.7699999809265137,
+							"Value" : 0.3000000119209290
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Constant" : [ 0.4000000059604645, 0.0, 0.0 ],
+					"CurveX" : null,
+					"CurveY" : null,
+					"CurveZ" : null,
+					"Type" : 2
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.2617993950843811,
+					"Min" : -0.2617993950843811,
+					"Type" : 3
+				}
+			],
+			"Duration" : 1.0,
+			"LengthScale" : 2.50,
+			"Looping" : true,
+			"MaxParticle" : 10,
+			"Name" : "P",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 1.0,
+			"Texture" : "Data\\Effect\\hs_clouds03.OZT",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		},
+		
+		{
+			"Billboarding" : 0,
+			"Blending" : 1,
+			"Components" : 
+			[
+				
+				{
+					"Components" : 
+					[
+						
+						{
+							"EmitFromShell" : true,
+							"RandomDirection" : true,
+							"Shape" : 0,
+							"Size" : [ 1.50, 1.50, 0.50 ],
+							"Type" : 0
+						},
+						
+						{
+							"AlphaGradation" : null,
+							"BrightnessGradation" : null,
+							"ColorGradation" : null,
+							"MaxBrightness" : 1.0,
+							"MaxColor" : 
+							[
+								0.7058823704719543,
+								0.7058823704719543,
+								0.7058823704719543,
+								0.8000000119209290
+							],
+							"MinBrightness" : 0.6999999880790710,
+							"MinColor" : 
+							[
+								0.3529411852359772,
+								0.3529411852359772,
+								0.3529411852359772,
+								0.3000000119209290
+							],
+							"Type" : 1
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 8.0,
+							"Min" : 5.0,
+							"Type" : 2
+						},
+						
+						{
+							"Max" : 6.283185482025146,
+							"Min" : 0.0,
+							"Type" : 3
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 1.0,
+							"Min" : 0.50,
+							"Type" : 4
+						},
+						
+						{
+							"Curve" : null,
+							"Max" : 0.05999999865889549,
+							"Min" : 0.01999999955296516,
+							"Type" : 5
+						}
+					],
+					"CurveEmissionCount" : null,
+					"Delay" : 0.0,
+					"Frequency" : 7,
+					"MaxDelay" : 0.0,
+					"MaxEmissionCount" : 1,
+					"MinDelay" : 0.0,
+					"MinEmissionCount" : 1,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.0
+						},
+						
+						{
+							"Time" : 0.2000000029802322,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 0.4799999892711639,
+							"Value" : 0.4000000059604645
+						},
+						
+						{
+							"Time" : 0.7699999809265137,
+							"Value" : 0.8000000119209290
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.0
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 1
+				},
+				
+				{
+					"Constant" : [ 0.4000000059604645, 0.0, 0.0 ],
+					"CurveX" : null,
+					"CurveY" : null,
+					"CurveZ" : null,
+					"Type" : 2
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.2617993950843811,
+					"Min" : -0.2617993950843811,
+					"Type" : 3
+				}
+			],
+			"Duration" : 1.0,
+			"LengthScale" : 1.0,
+			"Looping" : false,
+			"MaxParticle" : 15,
+			"Name" : "02",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"Scale" : 1.0,
+			"SpaceIsLocal" : true,
+			"SpeedScale" : 0.50,
+			"Texture" : "Data\\Effect\\hs_clouds02.OZT",
+			"Type" : 0,
+			"maxduration" : 0.0,
+			"minduration" : 0.0,
+			"parentduration" : true,
+			"randomduration" : false
+		}
+	],
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"EmitFromShell" : true,
+					"RandomDirection" : true,
+					"Shape" : 0,
+					"Size" : [ 1.50, 1.50, 0.50 ],
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.0,
+					"MaxColor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"MinBrightness" : 0.8000000119209290,
+					"MinColor" : [ 0.50, 0.50, 0.50, 0.6999999880790710 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 10.0,
+					"Min" : 5.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 4.50,
+					"Min" : 3.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 0.07000000029802322,
+					"Min" : 0.01999999955296516,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 3,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.2000000029802322,
+					"Value" : 0.8000000119209290
+				},
+				
+				{
+					"Time" : 0.4799999892711639,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 0.7699999809265137,
+					"Value" : 0.6000000238418579
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Constant" : [ 0.50, 0.0, 0.0 ],
+			"CurveX" : null,
+			"CurveY" : null,
+			"CurveZ" : null,
+			"Type" : 2
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.3141592741012573,
+			"Min" : -0.3141592741012573,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 0.0,
+					"Value" : 0.2851400077342987
+				},
+				
+				{
+					"Tangent" : 0.0,
+					"Time" : 1.0,
+					"Value" : 0.3208400011062622
+				}
+			],
+			"Type" : 4
+		}
+	],
+	"Duration" : 5.0,
+	"LengthScale" : 2.50,
+	"Looping" : true,
+	"MaxParticle" : 30,
+	"Name" : "fog20-black01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 1.0,
+	"SpaceIsLocal" : true,
+	"SpeedScale" : 1.0,
+	"Texture" : "Data\\Effect\\hs_clouds01.OZT",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

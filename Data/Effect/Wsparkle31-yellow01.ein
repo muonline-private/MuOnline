@@ -1,0 +1,152 @@
+
+{
+	"Billboarding" : 0,
+	"Blending" : 2,
+	"Components" : 
+	[
+		
+		{
+			"Components" : 
+			[
+				
+				{
+					"Cylinder" : false,
+					"EmitFromShell" : true,
+					"Height" : 10.0,
+					"Radius" : 3.0,
+					"RandomDirection" : false,
+					"Shape" : 1,
+					"Tangent" : 0.1763269752264023,
+					"Type" : 0
+				},
+				
+				{
+					"AlphaGradation" : null,
+					"BrightnessGradation" : null,
+					"ColorGradation" : null,
+					"MaxBrightness" : 1.50,
+					"MaxColor" : [ 1.0, 1.0, 0.0, 1.0 ],
+					"MinBrightness" : 1.50,
+					"MinColor" : [ 1.0, 1.0, 0.0, 1.0 ],
+					"Type" : 1
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 1.799999952316284,
+					"Min" : 1.0,
+					"Type" : 2
+				},
+				
+				{
+					"Max" : 6.283185482025146,
+					"Min" : 0.0,
+					"Type" : 3
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 12.0,
+					"Min" : 7.0,
+					"Type" : 4
+				},
+				
+				{
+					"Curve" : null,
+					"Max" : 60.0,
+					"Min" : 20.0,
+					"Type" : 5
+				}
+			],
+			"CurveEmissionCount" : null,
+			"Delay" : 0.0,
+			"Frequency" : 1,
+			"MaxDelay" : 0.0,
+			"MaxEmissionCount" : 1,
+			"MinDelay" : 0.0,
+			"MinEmissionCount" : 1,
+			"Type" : 0
+		},
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.0
+				},
+				
+				{
+					"Time" : 0.1199999973177910,
+					"Value" : 1.0
+				},
+				
+				{
+					"Time" : 0.4099999964237213,
+					"Value" : 0.3333333432674408
+				},
+				
+				{
+					"Time" : 0.6800000071525574,
+					"Value" : 0.8039215803146362
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.0
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 1
+		},
+		
+		{
+			"Curve" : null,
+			"Max" : 0.0,
+			"Min" : 0.0,
+			"Type" : 3
+		},
+		
+		{
+			"Curve" : 
+			[
+				
+				{
+					"Tangent" : 0.2172768115997314,
+					"Time" : 0.0,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Tangent" : -0.02935255132615566,
+					"Time" : 0.2440000027418137,
+					"Value" : 0.3871500194072723
+				},
+				
+				{
+					"Tangent" : 1.828214526176453,
+					"Time" : 1.0,
+					"Value" : 1.0
+				}
+			],
+			"Type" : 5
+		}
+	],
+	"Duration" : 4.0,
+	"LengthScale" : 3.0,
+	"Looping" : true,
+	"MaxParticle" : 20,
+	"Name" : "Wsparkle31-yellow01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 0.0, 0.0, 0.0 ],
+	"Scale" : 0.02500000037252903,
+	"SpaceIsLocal" : false,
+	"SpeedScale" : 5.0,
+	"Texture" : "Data\\Effect\\flare01_yellow.OZJ",
+	"Type" : 0,
+	"maxduration" : 0.0,
+	"minduration" : 0.0,
+	"parentduration" : false,
+	"randomduration" : false
+}

@@ -1,0 +1,113 @@
+
+{
+	"Billboarding" : 4,
+	"Blending" : 2,
+	"Brightness" : 0.8000000119209290,
+	"Children" : 
+	[
+		
+		{
+			"Billboarding" : 4,
+			"Blending" : 2,
+			"Brightness" : 0.8000000119209290,
+			"Color" : [ 0.7529411911964417, 0.0, 0.1254902034997940, 1.0 ],
+			"Components" : 
+			[
+				
+				{
+					"AlphaGradation" : 
+					[
+						
+						{
+							"Time" : 0.0,
+							"Value" : 0.6999999880790710
+						},
+						
+						{
+							"Time" : 0.3000000119209290,
+							"Value" : 1.0
+						},
+						
+						{
+							"Time" : 0.50,
+							"Value" : 0.6000000238418579
+						},
+						
+						{
+							"Time" : 0.750,
+							"Value" : 0.8999999761581421
+						},
+						
+						{
+							"Time" : 1.0,
+							"Value" : 0.6999999880790710
+						}
+					],
+					"ColorGradation" : null,
+					"Type" : 0
+				}
+			],
+			"Duration" : 8.0,
+			"Height" : 1.0,
+			"Looping" : true,
+			"Name" : "Billboard",
+			"Position" : [ 0.0, 0.0, 0.0 ],
+			"Rotation" : [ 0.0, 0.0, 0.0 ],
+			"RotationAngle" : 0.0,
+			"Scale" : 1.0,
+			"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+			"Texture" : "Data\\Effect\\hs_crack_light02.OZJ",
+			"Type" : 1,
+			"Width" : 1.0
+		}
+	],
+	"Color" : [ 1.0, 0.0, 0.0, 1.0 ],
+	"Components" : 
+	[
+		
+		{
+			"AlphaGradation" : 
+			[
+				
+				{
+					"Time" : 0.0,
+					"Value" : 0.3000000119209290
+				},
+				
+				{
+					"Time" : 0.3000000119209290,
+					"Value" : 0.6999999880790710
+				},
+				
+				{
+					"Time" : 0.50,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 0.750,
+					"Value" : 0.50
+				},
+				
+				{
+					"Time" : 1.0,
+					"Value" : 0.3000000119209290
+				}
+			],
+			"ColorGradation" : null,
+			"Type" : 0
+		}
+	],
+	"Duration" : 8.0,
+	"Height" : 1.0,
+	"Looping" : true,
+	"Name" : "crack02-red01",
+	"Position" : [ 0.0, 0.0, 0.0 ],
+	"Rotation" : [ 1.570796370506287, 0.0, 0.0 ],
+	"RotationAngle" : 0.0,
+	"Scale" : 15.0,
+	"TexCoord" : [ 0.0, 0.0, 1.0, 1.0 ],
+	"Texture" : "Data\\Effect\\hs_crack_light01.OZJ",
+	"Type" : 1,
+	"Width" : 1.0
+}
