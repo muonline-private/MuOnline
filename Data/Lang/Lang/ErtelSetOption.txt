@@ -1,0 +1,3 @@
+0	"Determination"	"Determination"	0	1400	-1	-1	-1	-1	-1	-1	2	1600	5	3000
+1	"Passion"	"Passion"	1	1300	-1	-1	-1	-1	-1	-1	3	1450	4	2000
+end														

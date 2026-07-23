@@ -1,0 +1,21 @@
+0									
+1	"Defense Increase +%d"	1							
+2	"Extra Defense Increase +%d"	2							
+3	"All Stats Increase +%d"	3							
+4	"Nuke (+%d)"	4							
+5	"Bolt (+%d)"	4							
+6	"Area (+%d) Attack Power"	4							
+end									
+									
+1									
+1	1	33	2	34	-1	-1	-1	-1	
+2	1	39	2	40	-1	-1	-1	-1	
+3	1	45	2	46	-1	-1	-1	-1	
+end									
+									
+2									
+1	3	35	4	36	5	37	6	38	
+2	3	41	4	42	5	43	6	44	
+3	3	47	4	48	5	49	6	50	
+end									
+								

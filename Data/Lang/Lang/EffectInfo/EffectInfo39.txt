@@ -1,0 +1,4 @@
+84	Data\Effect\twister12-yellow01.ein	0	0	0	0	0	0	300	0	1
+78	Data\Effect\fire09-red01.ein	0	0	0	0	0	0	50	0	1
+78	Data\Effect\twinkle12-red01.ein	0	0	50	0	0	0	260	0	1
+78	Data\Effect\smoke11-red01.ein	0	0	0	0	0	0	50	0	1

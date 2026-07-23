@@ -1,0 +1,33 @@
+		
+0	"Increase Strength"	1
+1	"Increase Agility"	1
+2	"Increase Energy"	1
+3	"Increase Stamina"	1
+4	"Increase Command"	1
+5	"Increase Min. Damage"	1
+6	"Increase Max. Damage"	1
+7	"Increase Wizardry Damage"	2
+8	"Increase Damage"	2
+9	"Increase Attack Speed"	1
+10	"Increase Defense"	1
+11	"Increase Max. Life"	1
+12	"Increase Max. Mana"	1
+13	"Increase Maximum AG"	1
+14	"Increase AG Recovery Rate"	1
+15	"Increase Critical Damage Chance"	2
+16	"Increase Critical Damage"	1
+17	"Increase Excellent Damage Chance"	2
+18	"Increase Excellent Damage"	1
+19	"Increase Skill Damage"	1
+20	"Double Damage Chance"	2
+21	"Ignore Enemy's Defense"	2
+22	"Increase defense when using shield"	2
+23	"Increase Damage/Magical Damage"	1
+24	"Increase all stats"	1
+26	"Increase Damage"	1
+27	"Increase Magical Damage"	1
+28	"Increases Mastery DMG/Wizardry"	1
+29	"Increases Mastery Excellent DMG"	1
+30	"Increases Mastery Critical DMG"	1
+31	"Increases Mastery DMG"	1
+end		

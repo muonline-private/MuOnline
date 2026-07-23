@@ -1,0 +1,5 @@
+97	Data\Effect\twinkle12-red01.ein	0	0	50	0	0	0	260	0	1	0	0	0
+97	Data\Effect\smoke11-red01.ein	0	0	0	0	0	0	50	0	1	0	0	0
+97	Data\Effect\fire09-red01.ein	0	0	0	0	0	0	50	0	1	0	0	0
+101	Data\Effect\twinkle21-red01.ein	0	0	22	0	0	0	300	1	1	0	0	0
+104	Data\Effect\twinkle22-red01.ein	0	0	0	0	0	0	300	0	1	0	0	0

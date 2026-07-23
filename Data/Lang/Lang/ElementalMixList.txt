@@ -1,0 +1,33 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////					
+//	[ Text  Version ]	0.0.0.1			
+//	[ 최종 작업자 ]	사재일			
+//	[ 최종 작업일 ]	2015-03-02 19:17			
+//	[ 작 업 내 용 ]	ElementalMixList 스크립트 최초생성			
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////					
+// Property combination list table					
+// Client-only script					
+// Script to show a list of attribute combinations UI. The list is listed in ID order.					
+// Link A, B columns are table numbers of PentagramMixNeedSource, followed by Index.					
+// Name : Text refers to the script to get the name of the combination.					
+// If there are multiple Index values of PentagramMixNeedSource, you can categorize them with Link B_Min, Max.					
+// The AttributeList script only connects the list and the combination method, but the actual combination ingredients and results are determined by the PentagramMixNeedSource script.					
+// The combination open item in the PentagramMixNeedSource and the value of the Link must match!					
+//ID	Name	Link A	Link B_Min	Link B_Max	
+1	4722	0	1	1	// 에르텔 조합
+2	4715	2	1	10	// 에르텔 레벨업(1랭크)
+3	4716	2	1	10	// 에르텔 레벨업(2랭크)
+4	4717	2	1	10	// 에르텔 레벨업(3랭크)
+5	4718	2	1	10	// 에르텔 레벨업(4랭크)
+6	4719	2	1	10	// 에르텔 레벨업(5랭크)
+7	4720	3	2	3	// 에르텔 랭크업
+8	4725	0	2	2	// (광희)펜타그램 슬롯 조각 합성
+9	5287	6	0	0	// 날개속성추가
+10	5288	7	0	14	// 날개속성레벨
+11	5868	11	-1	-1	
+12	5869	12	-1	-1	
+13	5870	13	1	10	
+14	5826	8	0	1	
+15	5827	9	0	9	
+16	5828	10	0	1	
+17	4721	0	3	3	// 속성변환 (이벤트)
+end

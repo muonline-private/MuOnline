@@ -1,0 +1,72 @@
+0																	
+12	200	"Muren's Book of Magic"	1	0	0	0	0	0	0	0							
+12	201	"Scroll of Etramu"	1	0	0	0	0	0	0	0							
+12	202	"Empire Guardian's Iron Wall Shield"	1	0	0	0	0	0	0	0							
+12	203	"Empire Guardian's Iron Wall Shield"	1	3	0	0	0	0	0	0							
+12	204	"Hero's Potion"	1	0	0	0	0	0	0	0							
+12	205	"Hero's Potion"	1	4	0	0	0	0	0	0							
+12	206	"Gladiator's Dagger"	1	0	0	0	0	0	0	0							
+12	207	"Gladiator's Dagger"	1	2	0	0	0	0	0	0							
+12	217	"Thoughtful Sage's Jewel"	1	5	0	0	0	0	0	0							
+12	208	"Kundun's Blade of Madness"	2	26	24	0	0	0	0	0							
+12	209	"Kundun's Magic Scroll"	2	27	24	0	0	0	0	0							
+12	210	"Empire Guardians' Bastion"	2	26	28	0	0	0	0	0							
+12	211	"Icarus' Ancient Tome"	2	27	28	0	0	0	0	0							
+12	218	"Magic Spell Scroll (Bound)"	2	27	24	0	0	0	0	0							
+12	306	"Runedil's Goldentune Harp"	2	34	21	29	0	0	0	0							
+12	307	"Lemuria's Orb"	2	34	22	30	0	0	0	0							
+12	308	"Norrwen's Bloodstring Lyra"	2	23	24	25	0	0	0	0							
+12	499	"1st Golden Melody Harp (Rare)"	2	0	0	0	0	0	0	0							
+12	500	"1st Brilliant Orb (Rare)"	2	61	63	66	0	0	0	0	
+12	501	"1st Bloodstring Lyra (Rare)"	2	61	63	66	62	67	68	28	
+12	212	"Arcana Book of Prophesies"	3	41	24	0	0	0	0	0							
+12	213	"Antonias' Sword"	3	41	42	0	0	0	0	0							
+12	214	"Kundun's Sealed Book"	3	41	43	0	0	0	0	0							
+12	219	"Antonia's Sword (Bound)"	3	41	42	0	0	0	0	0	
+12	502	"1st Arca's Prophecy (Unique)"	3	0	0	0	0	0	0	0							
+12	503	"1st Antonia's Sword (Unique)"	3	67	68	0	0	0	0	0	
+12	504	"1st Kundun's Seal Scroll (Unique)"	3	0	0	0	0	0	0	0							
+12	215	"Pentagram for Beginners"	1	1	0	0	0	0	0	0							
+end																	
+																	
+																	
+1																	
+1		"Pentagram DMG and DEF+5%%"	0	1	0	1	1	0	2	1	0	3	1	0	-1	-1	0
+2		"Increase Pentagram DMG +10%%"	0	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+3		"Increase Pentagram DEF +10%%"	0	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+4		"Elemental Critical DMG Rate +10%%"	0	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+5		"Increase Errtel of Blessing Rank 1 Option +35"	0	1	0	1	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+																	
+21		"Increase Pentagram DMG +10%%"	0	2	0	2	2	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+22		"Increase Pentagram DEF +10%%"	1	2	0	3	2	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+23		"Elemental Critical DMG Rate +5%%"	1	1	7	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+24		"Elemental Critical DMG Rate +10%%"	0	2	3	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+25		"Elemental Critical DMG Rate +15%%"	0	3	0	1	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+26		"DEF Added to Elemental DEF +5%%"	0	3	0	1	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+27		"DMG Added to Elemental DMG +1%%"	0	3	0	1	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+28		"%s, %s Elemental DMG Perfect Dodge Rate +5%%"	1	2	0	2	1	7	-1	-1	-1	-1	-1	-1	-1	-1	-1
+29		"Increase Elemental DMG +30"	0	3	0	2	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+30		"Increase Elemental DEF +30"	1	3	0	3	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+31		"Increase Errtel of Integrity Rank 1 Option +20 (unused option)"	2	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+32		"Increase Errtel of Divinity Rank 1 Option +20 (unused option)"	3	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+33		"Increase Errtel of Radiance Rank 1 Option +20 (unused option)"	4	1	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+34		"Pentagram DMG and DEF+5%%"	0	1	7	1	1	7	4	1	7	-1	-1	-1	-1	-1	-1
+																	
+41		"Elemental DMG Perfect Dodge Rate +5%%"	1	3	6	2	3	6	3	3	6	-1	-1	-1	-1	-1	-1
+42		"DEF Added to Elemental DEF +5%%"	0	3	5	1	3	5	-1	-1	-1	-1	-1	-1	-1	-1	-1
+43		"DMG Added to Elemental DMG +1%%"	0	3	5	1	3	5	-1	-1	-1	-1	-1	-1	-1	-1	-1
+61		"Pentagram ATK/DEF increases +5%%"	0	1	7	4	1	7	-1	-1	-1	-1	-1	-1	-1	-1	-1
+62		"Pentagram ATK increases +10%%"	0	2	0	2	2	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+63		"Pentagram DEF increases +10%%"	1	2	0	3	2	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+64		"Elemental Crit DMG Rate +5%%"	1	1	7	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+65		"Elemental Crit DMG Rate +10%%"	0	2	3	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1	-1
+66		"Elemental Crit DMG Rate +50%%"	0	3	0	1	3	0	-1	-1	-1	-1	-1	-1	-1	-1	-1
+67		"Elemental ATK Complete Dodge Chance +5%%"	1	3	6	2	3	6	3	3	6	-1	-1	-1	-1	-1	-1
+68		"Additional defense to Elemental DEF +5%%"	0	3	5	1	3	5	-1	-1	-1	-1	-1	-1	-1	-1	-1
+69		"Damage is added to Elemental ATK +1%%"	0	3	5	1	3	5	-1	-1	-1	-1	-1	-1	-1	-1	-1
+end																	
+																	
+2																	
+2	0		0	7000	3000	0	
+3	0		0	0	10000	0	
+end																	

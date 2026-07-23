@@ -1,0 +1,32 @@
+13	Data\Effect\hs_Wsmoke33-green01.ein	0	0	0	-90	0	0	180	74	1	0	0	0	
+13	Data\Effect\hs_Wsmoke34-green01.ein	0	0	0	-90	0	0	180	74	1	0	1	7	
+30	Data\Effect\hs_Wsmoke33-white01.ein	0	0	0	-90	0	0	180	74	1	0	0	0	
+30	Data\Effect\hs_Wsmoke34-white01.ein	0	0	0	-90	0	0	180	74	1	0	1	7	
+170	Data\Effect\hs_twinkle29-yellow01.ein	0	0	0	0	0	0	180	0	1	1	0	0	
+171	Data\Effect\hs_twinkle29-blue01.ein	0	0	0	0	0	0	180	0	1	1	0	0	
+172	Data\Effect\hs_twinkle29-green01.ein	0	0	0	0	0	0	180	0	1	1	0	0	
+173	Data\Effect\hs_twinkle29-red01.ein	0	0	0	0	0	0	180	0	1	1	0	0	
+174	Data\Effect\hs_twinkle29-magenta01.ein	0	0	0	0	0	0	180	0	1	1	0	0	
+175	Data\Effect\hs_water03-yellow01.ein	0	0	0	0	0	0	400	0	1	1	0	0	
+176	Data\Effect\hs_smoke32-green01.ein	0	0	0	0	0	0	400	0	1	1	0	0	
+180	Data\Effect\haze13-magenta01.ein	0	0	0	0	0	0	150	0	1	1	0	0	
+181	Data\Effect\sd_twinkle29-purple01.ein	0	-400	320	180	0	0	200	0	1	0	0	0	
+181	Data\Effect\sd_smoke26-purple01.ein	0	0	200	90	0	0	600	0	1	0	0	0	
+182	Data\Effect\hs_fire14-red01.ein	0	0	150	0	0	0	150	0	0	0	0	0	
+182	Data\Effect\hs_smoke29-red01.ein	0	0	60	0	0	0	90	0	0	0	0	0	
+182	Data\Effect\twinkle10-red01.ein	0	0	150	0	0	0	330	0	1	0	0	0	
+183	Data\Effect\hs_fire14-red01.ein	0	0	150	0	0	0	150	0	0	0	0	0	
+183	Data\Effect\hs_smoke29-red01.ein	0	0	60	0	0	0	90	0	0	0	0	0	
+183	Data\Effect\twinkle10-red01.ein	0	0	160	0	0	0	350	0	1	0	0	0	
+184	Data\Effect\hs_smoke30-white01.ein	0	0	0	0	0	0	150	0	1	1	0	0	
+186	Data\Effect\hs_Lighting08-yellow01.ein	0	0	0	0	0	0	150	0	1	0	0	0	
+194	Data\Effect\smoke11-red01.ein	0	0	0	0	0	0	50	0	1	1	0	0	
+194	Data\Effect\fire09-red01.ein	0	0	0	0	0	0	50	0	1	1	0	0	
+194	Data\Effect\twinkle10-red01.ein	0	0	60	0	0	0	350	0	1	0	0	0	
+198	Data\Effect\hs_Lighting07-yellow01.ein	0	0	0	0	0	0	150	0	1	0	0	0	
+199	Data\Effect\hs_twinkle29-yellow02.ein	0	0	0	0	0	0	350	0	1	1	0	0	
+200	Data\Effect\hs_smoke31-white01.ein	0	0	0	0	0	0	300	0	1	1	0	0	
+
+
+
+

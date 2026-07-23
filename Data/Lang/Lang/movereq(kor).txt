@@ -1,0 +1,79 @@
+//Id Name           Movename Zen  lvl(-) lvl(+) GateNumber Difficulty Sort Order Canada Sort Order Monster Category
+1	"Arena (Free)"	"Arena"				2000	100	-1	1715	0	0	-1
+2	"Arena (VIP)"	"Arena2"			5000	50	-1	1716	0	0	-1
+79	"Arena (VIP+)"	"Arena3"			10000	10	-1	1717	0	0	-1
+3	"Lorencia"	"Lorencia"			2000	1	-1	17	3	16	7
+4	"Noria"		"Noria"				2000	1	-1	27	4	6	32
+5	"Elbeland"	"Elbeland"			2000	1	-1	267	9	38	418
+6	"Elbeland 2"	"Elbeland2"			2500	10	-1	268	10	39	422
+7	"Elbeland 3"	"Elbeland3"			3000	10	-1	269	11	40	425
+8	"Devias"	"Devias"			2000	10	-1	22	5	11	24
+9	"Devias 2"	"Devias2"			2500	10	-1	72	6	12	19
+10	"Devias 3"	"Devias3"			3000	10	-1	73	7	13	20
+11	"Devias 4"	"Devias4"			3500	10	-1	74	8	14	20
+12	"Dungeon"	"Dungeon"			3000	20	-1	2	12	8	11
+13	"Dungeon 2"	"Dungeon2"			3500	20	-1	6	13	9	13
+14	"Dungeon 3"	"Dungeon3"			4000	30	-1	10	14	10	8
+15	"Atlans"	"Atlans"			4000	50	-1	49	15	31	45
+16	"Atlans 2"	"Atlans2"			4500	50	-1	75	23	32	52
+17	"Atlans 3"	"Atlans3"			5000	50	-1	76	24	33	48
+18	"LostTower"	"LostTower"			5000	50	-1	42	16	19	39
+19	"LostTower 2"	"LostTower2"			5500	50	-1	31	17	20	34
+20	"LostTower 3"	"LostTower3"			6000	50	-1	33	18	21	41
+21	"LostTower 4"	"LostTower4"			6500	50	-1	35	19	22	37
+22	"LostTower 5"	"LostTower5"			7000	50	-1	37	20	23	40
+23	"LostTower 6"	"LostTower6"			7500	50	-1	39	21	24	35
+24	"LostTower 7"	"LostTower7"			8000	50	-1	41	22	25	35
+25	"Tarkan"	"Tarkan"			8000	80	-1	57	25	58	57
+26	"Tarkan 2"	"Tarkan2"			8500	80	-1	77	28	59	61
+27	"Icarus"	"Icarus"			10000	100	-1	63	29	42	70
+28	"[PvP] Castle Siege"	"LorenDeep"			10000	150	-1	104	55	18	-1
+29	"Crywolf"	"Crywolf"			10000	150	-1	118	56	57	-1
+30	"Aida 1"		"Aida1"			8500	100	-1	119	26	28	306
+31	"Aida 2"		"Aida2"			8500	100	-1	140	37	29	550
+32	"Kanturu Relics 1"	"Kanturu_ruin1"		9000	150	-1	138	27	44	353
+33	"Kanturu Relics 2"	"Kanturu_ruin2"		9000	150	-1	141	30	45	350
+34	"Kanturu Relics 3"	"Kanturu_Remain"	12000	150	-1	139	33	43	360
+35	"Kanturu Island"	"Kanturu_ruin_island"	15000	200	-1	334	38	46	556
+36	"Swamp of Calmness"	"Swamp_of_Calmness"	15000	200	-1	273	35	61	449
+37	"Raklion"	"Raklion"			15000	200	-1	287	39	15	458
+42	"Vulcanus"	"Vulcanus"			15000	200	-1	294	32	26	490
+44	"Loren Market"	"Loren_Market"			10000	10	-1	333	2	17	-1
+46	"Karutan"	"Karutan1"			13000	150	-1	335	31	47	574
+47	"Karutan 2"	"Karutan2"			14000	150	-1	344	36	48	576
+48	"Event Square"	"Eventmap_square"		20000	10	-1	503	1	41	-1
+49	"Archeron"	"Archeron"			50000	200	-1	417	34	30	591
+50	"Ferea"	"Ferea"					50000	220	-1	509	40	60	730
+51	"Nixies Lake"	"Nixies Lake"			50000	230	-1	522	41	7	744
+52	"Deep Dungeon 1"	"R-Dungeon1"		50000	250	-1	561	42	1	767
+53	"Deep Dungeon 2"	"R-Dungeon2"		50000	250	-1	562	43	2	772
+54	"Deep Dungeon 3"	"R-Dungeon3"		50000	250	-1	563	44	3	773
+55	"Deep Dungeon 4"	"R-Dungeon4"		50000	250	-1	564	45	4	769
+56	"Deep Dungeon 5"	"R-Dungeon5"		50000	250	-1	565	46	5	777
+57	"Swamp of Darkness"	"SwampOfDarkness"	50000	280	-1	567	47	37	788
+58	"Kubera Mine"	"KuberaMine"			50000	300	-1	591	57	56	810
+59	"Abyss of Atlas 1"	"abyss_Atlans1"		150000	320	-1	617	58	34	832
+60	"Abyss of Atlas 2"	"abyss_Atlans2"		150000	320	-1	618	59	35	834
+61	"Abyss of Atlas 3"	"abyss_Atlans3"		150000	320	-1	619	60	36	836
+62	"Scorched Canyon"	"Scorched Canyon"	150000	330	-1	620	61	27	846
+63	"Red Smoke Icarus"	"Red Smoke Icarus"	250000	350	-1	631	62	63	861
+64	"Arenil Temple"		"Arenil Temple"		250000	360	-1	634	63	28	867
+65	"Ashen Aida"		"Ashen Aida"		50000	370	-1	643	64	44	875
+67	"Blaze Kethotum"	"Blaze Kethotum"	50000	375	-1	659	66	27	896
+68	"Old Kethotum"		"Old Kethotum"		50000	220	-1	648	69	27	892
+69	"Kanturu Under Area"	"Kanturu Under Area"	50000	380	-1	670	67	47	905
+70	"Ignis Volcano"		"Ignis Volcano"		50000	400	-1	675	68	44	911
+71	"Blood Tarkan"	"Blood Tarkan"	50000	400	-1	682	69	28	926
+72	"Tormenta Island"	"tormenta Island"	50000	400	-1	694	70	66	942
+73	"Twisted Karutan"	"Twisted Karutan"	50000	400	-1	699	71	15	955
+74	"Kardamahal Temple"	"Kardamahal Temple"	50000	400	-1	704	72	50	963
+75	"Swamp of Doom"	"Swamp of Doom"	50000	400	-1	713	73	70	969
+76	"Aquilas Sanctuary"	"Aquilas Sanctuary"	50000	400	-1	718	74	35	975
+77	"Forgotten Raklion"	"Forgotten Raklion"	50000	400	-1	728	75	27	983
+80	"[PvP] DeathMatch"	"DeathMatch"		100000	200	-1	700	0	0	-1
+81	"[PvP] LastMan"		"LastMan"		100000	200	-1	701	0	0	-1
+82	"[PvP] Crystal Battle"	"cbattle"		100000	200	-1	910	0	0	-1
+83	"[PvP] Throne Conquest"	"Devias3"			100000	200	-1	73	0	0	-1
+84	"[PvM] Square"		"pvmsquare"		100000	200	-1	920	0	0	-1
+//Id Name           Movename Zen  lvl(-) lvl(+) GateNumber Difficulty Sort Order Canada Sort Order Monster Category
+105	"Fantasy"	"Fantasy"			100000	400	-1	20001	0	0	-1

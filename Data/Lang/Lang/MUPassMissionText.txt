@@ -1,0 +1,28 @@
+//MUPassMissionText
+0			
+0	"Use Mu Helper %s seconds"	1	6259
+1	"Kill %s monsters in the hunting ground"	1	6264
+2	"Use MP %s as skill"	1	6263
+3	"Use %s Potion items"	1	6261
+4	"Use %s Buff items"	1	6261
+5	"Repair the Tempest Muun %s times"	1	6262
+6	"Repair Guardian %s times"	1	6262
+7	"Repair Equipment item %s times"	1	6262
+8	"Buy %s items from Personal Shop"	1	6263
+9	"Request %s additional friends"	1	6262
+10	"Send %s letters to friends"	1	6262
+11	"Leveling up my character %s"	1	6260
+12	"Item disassembled %s times"	1	6261
+13	"Soul potion %s combinations succeeded"	1	6261
+14	"Varka Event clear"	0	6265
+15	"Boss Battle achieve 1 million damage in the Boss Fight"	0	6265
+16	"Enter the Chaos Castle %s times"	1	6262
+17	"Enter the Blood Castle %s times"	1	6262
+18	"Enter the Devil's Square %s times"	1	6262
+19	"Find and kill the White Wizard"	0	6265
+20	"Participation and success in the Battle of Cryolf"	0	6265
+21	"Participate in the Battle of Crywolf"	0	6265
+22	"Shining Jewelry Case used %s times"	1	6262
+23	"Pandora Pick used %s times"	1	6262
+24	"Obtain %s Jewels of Bless"	1	6261
+end		

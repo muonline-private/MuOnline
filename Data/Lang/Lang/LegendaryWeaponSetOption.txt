@@ -1,0 +1,35 @@
+0	
+255	"Excellent Damage Probability Increased by %d%%"	11	0	0	
+0	"Attack (Magic) Speed +%d"	12	0	0	
+1	"Gain (HP/8) when killing a monster"	13	3	0	
+2	"Gain (Mana/8) when killing a monster"	14	3	0	
+3	"%s increases by %.1f per 20 levels"	15	2	1	
+4	"%s +%d"	16	1	1	
+end					
+					
+1	
+255	"%s increases by %.1f per 20 levels"	17	2	2	
+0	"Reflect Damage by %d%%"	18	0	0	
+1	"Defense Success Rate +%d%%"	19	0	3	
+2	"Max HP +%d"	20	0	0	
+3	"Max Mana +%d"	21	0	0	
+4	"Damage Reduced by %d"	22	0	0	
+end					
+					
+2	
+255	"Enhanced Attribute Defense +%d%%"	23	0	0	
+0	"Reflect Damage by %d%%"	18	0	0	
+1	"Defense Success Rate +%d%%"	19	0	3	
+2	"Max HP +%d"	20	0	0	
+3	"Max Mana +%d"	21	0	0	
+4	"Damage Reduced by %d"	22	0	0	
+end					
+					
+3	
+255	"%s increases by %.1f per 20 levels"	17	2	2	
+0	"Reflect Damage by %d%%"	18	0	0	
+1	"Defense Success Rate +%d%%"	19	0	3	
+2	"Max HP +%d"	20	0	0	
+3	"Max Mana +%d"	21	0	0	
+4	"Obsidian Effect +%d"	24	0	0	
+end					

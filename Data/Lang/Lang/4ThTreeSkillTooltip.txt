@@ -1,0 +1,222 @@
+1001	"Connected skill attacks increase the skill DMG by %d."	"Skill DMG increases by %d."	0
+1002	"Connected skill attacks add 1 skill DMG."	"null"	-1
+1003	"Connected skill attacks add 2 skill DMG."	"null"	-1
+1004	"Connected skill attacks add 3 skill DMG."	"null"	-1
+1005	"Connected skill attacks add 4 skill DMG."	"null"	-1
+1006	"Connected skill attacks add 2 skill DMG."	"null"	-1
+1007	"Connected skill attacks increase the Additional DMG Rate by %0.2f%%."	"The Additional DMG Rate increases by %0.2f%%."	1
+1008	"Increases the attack speed of the connected skill by %d."	"Increases the attack speed of the connected skill by %d."	0
+1009	"Increases the attack range of the connected skill by %d tile(s)."	"Increases the attack range of the connected skill by %d tile(s)."	0
+1010	"Adds Splash DMG to the connected skills."	"null"	-1
+1011	"The attack range of the connected skill increases by %d tile(s)."	"The attack range of the connected skill increases by %d tile(s)."	0
+1012	"Connected skill attacks increase the number of targets receiving the DMG by %d."	"Connected skill attacks increase the number of targets receiving the DMG by %d."	0
+1013	"Increases beneficial effects by %0.2f%%."	"Increases beneficial effects by %0.2f%%."	1
+1014	"Increases beneficial effects by %0.2f%%."	"Increases beneficial effects by %0.2f%%."	1
+1015	"Increases the duration of beneficial effects by %d second(s)."	"Increases the duration of beneficial effects by %d second(s)."	0
+1016	"Iron Defense can be learned."	"null"	-1
+1017	"Increases the DEF effect of Iron Defense by %d."	"Increases the DEF effect of Iron Defense by %d."	0
+1018	"Reduces the cooldown time by %d second(s)."	"Reduces the cooldown time by %d second(s)."	0
+1019	"Removes the cooldown time."	"null"	-1
+1020	"Increases the (Max/Min) DMG of the equipped weapon by %0.2f%%."	"Increases (Max/Min) DMG of the weapon by %0.2f%%."	1
+1021	"Increases Magical DMG of weapon by %0.2f%% when attacking with a chained skill."	"Increases the Magical DMG of weapon by %0.2f%%."	1
+1022	"Adds the Penetration Effect to the arrows of the connected skills."	"null"	-1
+1023	"Connected skill attacks increase the arrow count by %d."	"Connected skill attacks increase the arrow count by %d."	0
+1024	"When attacking with skill, %0.2f%% chance to create a Poisoning magic field.#(Magic field lasts 10 seconds/Cooldown 20 seconds)# #Inflicts Poison effect(DOT) to up to 7 targets."	"Increase chance to create Poison magic field by %0.2f%%."	1
+1025	"When attacking with skill, %0.2f%% chance to create a Freezing magic field.#(Magic field lasts 10 seconds/Cooldown 20 seconds)# #Inflicts Freeze effect(slow and DEF reduction) to up to 7 targets."	"Increase chance to create Frostbite magic field by %0.2f%%."	1
+1026	"When attacking with skill, %0.2f%% chance to create a Bleeding magic field.#(Magic field lasts 10 seconds/Cooldown 20 seconds)# #Inflicts Bleed(additional damage) effects to up to 7 targets."	"Increase chance to create Severe Bleeding magic field by %0.2f%%."	1
+1028	"Increases the poison DoT DMG of Poisoning by %d."	"Additional %d poison DoT DMG of Poisoning is applied."	0
+1029	"Increases the DEF reduction effect of Chilling debuff by %d."	"Increases the DEF reduction effect of Chilling debuff by %d."	0
+1030	"Increases the bleeding DMG of Bleeding debuff by %d."	"Increases the additional DMG of Bleeding debuff by %d."	0
+1032	"Increases the duration of Poisoning by %d second(s)."	"Increase Poisoning magic field duration by %d seconds."	0
+1033	"Increases the duration of Chilling debuff by %d second(s)."	"Increase Freezing magic field duration by %d seconds."	0
+1034	"Increases the duration of Bleeding debuff by %d second(s)."	"Increase Bleeding magic field duration by %d seconds."	0
+1036	"Increases the poison DoT DMG of Deadly Poison by %d."	"Increases the poison DoT DMG of Deadly Poison by %d."	0
+1037	"Increases the attack speed reduction effect of Frostbite debuff by %0.2f%%."	"Increases the attack speed reduction effect of Frostbite debuff by %0.2f%%."	1
+1038	"Increases the bleeding DMG of Hemorrhage debuff by %d."	"Increases the additional DMG of Hemorrhage debuff by %d."	0
+1040	"Poisoned targets are applied with a Toxic Debuff success chance every second which inflicts Toxic effects.# #Poison damage x2 when affected by Toxic."	"Increase chance to inflict the upgraded Toxic debuff by %0.2f%%."	1
+1041	"Frozen targets are applied with a Frostbite Debuff success chance every second which inflicts Frostbite effects.# #Attack Speed is slowed when affected by Frostbite."	"Increase chance to inflict the upgraded Frostbite debuff by %0.2f%%."	1
+1042	"Bleeding targets are applied with a Severe Bleeding Debuff success chance every second which inflicts Severe Bleeding effects.# #Bleeding damage x2 when affected by Severe Bleeding."	"Increase chance to inflict the upgraded Severe Bleeding debuff by %0.2f%%."	1
+1046	"Chance to create Poisoning magic field increased by %0.2f%%."	"Chance to inflict Poisoning debuff by %0.2f%%."	1
+1047	"Chance to create Freezing magic field increased by %0.2f%%."	"Chance to inflict Freezing debuff by %0.2f%%."	1
+1048	"Chance to create Bleeding magic field increased by %0.2f%%."	"Chance to inflict Bleeding debuff by %0.2f%%."	1
+1050	"Additionally increases the poison DoT DMG of Poisoning debuff by %d."	"Increases the poison DoT DMG of Poisoning debuff by %d."	0
+1051	"Additionally increases the DEF reduction effect of Chilling debuff by %d."	"Increases the DEF reduction effect of Chilling debuff by %d."	0
+1052	"Additionally increases the bleeding DMG of Bleeding debuff by %d."	"Increases the bleeding DMG of Bleeding debuff by %d."	0
+1054	"Increase Poisoning magic field duration by %d seconds."	"Increase Poisoning magic field duration by %d seconds."	0
+1055	"Increase Freezing magic field duration by %d seconds."	"Increase Freezing magic field duration by %d seconds."	0
+1056	"Increase Bleeding magic field duration by %d seconds."	"Increase Bleeding magic field duration by %d seconds."	0
+1058	"Additionally increases the poison DoT DMG of Deadly Poison debuff by %d."	"Increases the poison DoT DMG of Deadly Poison debuff by %d."	0
+1059	"Additionally increases the attack speed reduction effect of Frostbite debuff by %0.2f%%."	"Increases the attack speed reduction effect of Frostbite debuff by %0.2f%%."	1
+1060	"Additionally increases the bleeding DMG of Hemorrhage debuff by %d."	"Increases the additional DMG of Hemorrhage debuff by %d."	0
+1062	"Chance to create Toxic magic field increased by %0.2f%%."	"Increase chance to upgrade to Toxic effect by %0.2f%%."	1
+1063	"Chance to create Frostbite magic field increased by %0.2f%%."	"Increase chance to upgrade to Frostbite effect by %0.2f%%."	1
+1064	"Chance to create Severe Bleeding magic field increased by %0.2f%%."	"Increase chance to upgrade to Severe Bleeding effect by %0.2f%%."	1
+1068	"Increases the DMG of Strike of Destruction by %d."	"Increases the DMG of Strike of Destruction by %d."	0
+1069	"Increases the DMG of Rageful Blow by %d."	"Increases the DMG of Rageful Blow by %d."	0
+1070	"Increases the DMG of Blood Storm by %d."	"Increases the DMG of Blood Storm by %d."	0
+1071	"Increases the DMG of Blow by %d."	"Increases the DMG of Blow by %d."	0
+1072	"Increases the DMG of Fire Blow by %d."	"Increases the DMG of Fire Blow by %d."	0
+1073	"Increases Greater Fortitude HP Boost Effect by %d."	"Increases Greater Fortitude HP Boost Effect by %d."	0
+1074	"Increases the DMG of Flame by %d."	"Increases the DMG of Flame by %d."	0
+1075	"Increases the DMG of Meteor Strike by %d."	"Increases the DMG of Meteor Strike by %d."	0
+1076	"Increases the DMG of Meteor Storm by %d."	"Increases the DMG of Meteor Storm by %d."	0
+1077	"Increases the DMG of Nova by %d."	"Increases the DMG of Nova by %d."	0
+1078	"Increases the DMG of Evil Spirit by %d."	"Increases the DMG of Evil Spirit by %d."	0
+1079	"Increases the DMG of Soul Seeker by %d."	"Increases the DMG of Soul Seeker by %d."	0
+1080	"Increases the DMG reduction effect of Soul Barrier by %d."	"Increases the DMG reduction effect of Soul Barrier by %d."	0
+1081	"Increases the DMG of Triple Shot by %d."	"Increases the DMG of Triple Shot by %d."	0
+1082	"Increases the DMG of Poison Arrow by %d."	"Increases the DMG of Poison Arrow by %d."	0
+1083	"Increases the DMG of Multi-shot by %d."	"Increases the DMG of Multi-shot by %d."	0
+1084	"Increases the DMG of Ice Arrow by %d."	"Increases the DMG of Ice Arrow by %d."	0
+1085	"Increases the DMG of Focus Shot by %d."	"Increases the DMG of Focus Shot by %d."	0
+1086	"Increases the DMG of Inferno by %d."	"Increases the DMG of Inferno by %d."	0
+1087	"Increases the DMG of Gigantic Storm by %d."	"Increases the DMG of Gigantic Storm by %d."	0
+1088	"Increases the DMG of Evil Spirit by %d."	"Increases the DMG of Evil Spirit by %d."	0
+1089	"Increases the DMG of Dark Blast by %d."	"Increases the DMG of Dark Blast by %d."	0
+1090	"Increases the DMG of Meteor Strike by %d."	"Increases the DMG of Meteor Strike by %d."	0
+1091	"Increases the DMG of Power Slash by %d."	"Increases the DMG of Power Slash by %d."	0
+1092	"Increases the DMG of Fire Slash by %d."	"Increases the DMG of Fire Slash by %d."	0
+1093	"Increases the DMG of Flame Strike by %d."	"Increases the DMG of Flame Strike by %d."	0
+1094	"Increases the DMG of Fire Blood by %d."	"Increases the DMG of Fire Blood by %d."	0
+1095	"Increases the DMG of Ice Blood by %d."	"Increases the DMG of Ice Blood by %d."	0
+1096	"Increases the DMG of FireBurst by %d."	"Increases the DMG of FireBurst by %d."	0
+1097	"Increases the DMG of Fire Scream by %d."	"Increases the DMG of Fire Scream by %d."	0
+1098	"Increases the DMG of Chaotic Diseier by %d."	"Increases the DMG of Chaotic Diseier by %d."	0
+1099	"Increases the DMG of Wind Soul by %d."	"Increases the DMG of Wind Soul by %d."	0
+1100	"Increases the DMG of Electric Spark by %d."	"Increases the DMG of Electric Spark by %d."	0
+1101	"Increases the DMG of Drain Life by %d."	"Increases the DMG of Drain Life by %d."	0
+1102	"Increases the DMG of Fire Beast by %d."	"Increases the DMG of Fire Beast by %d."	0
+1103	"Increases the DMG of Lightning Shock by %d."	"Increases the DMG of Lightning Shock by %d."	0
+1104	"Increases the DMG of Chain Lightning by %d."	"Increases the DMG of Chain Lightning by %d."	0
+1105	"Increases the DMG of Aqua Beast by %d."	"Increases the DMG of Aqua Beast by %d."	0
+1106	"Increases the DMG boost of Berserker by additional %d."	"Increases the DMG boost of Berserker by additional %d."	0
+1107	"Decreases the DEF reduction of Berserker by %d."	"Decreases the DEF reduction of Berserker by %d."	0
+1108	"Increases the DMG of Dragon Slasher by %d."	"Increases the DMG of Dragon Slasher by %d."	0
+1109	"Increases the DMG of Phoenix Shot by %d."	"Increases the DMG of Phoenix Shot by %d."	0
+1110	"Increases the DMG of Dark Phoenix Shot by %d."	"Increases the DMG of Dark Phoenix Shot by %d."	0
+1111	"Increases the DMG of Dragon Roar by %d."	"Increases the DMG of Dragon Roar by %d."	0
+1112	"Increases the DMG of Chain Drive by %d."	"Increases the DMG of Chain Drive by %d."	0
+1113	"Increases the DMG of Dark Side by %d."	"Increases the DMG of Dark Side by %d."	0
+1114	"Increases Health Boost by additional %d."	"Increases Health Boost by additional %d."	0
+1115	"Increases the DMG of Spin Step by %d."	"Increases the DMG of Spin Step by %d."	0
+1116	"Increases the DMG of Harsh Strike by %d."	"Increases the DMG of Harsh Strike by %d."	0
+1117	"Increases the DMG of Magic Pin by %d."	"Increases the DMG of Magic Pin by %d."	0
+1118	"Increases the DMG of Breche by %d."	"Increases the DMG of Breche by %d."	0
+1119	"Increases the DMG of Shining Peak by %d."	"Increases the DMG of Shining Peak by %d."	0
+1120	"Increases the DMG of Wrath by %d."	"Increases the DMG of Wrath by %d."	0
+1121	"Decreases the DEF reduction of Wrath by %d."	"Decreases the DEF reduction of Wrath by %d."	0
+1122	"Decreases the target's SD ratio on attack by %0.2f%%."	"Decreases the SD ratio by %0.2f%%."	1
+1123	"Increases the SD by %d."	"Increases the SD by %d."	0
+1124	"Increases the SD reduction when receiving DMG."	"Increases the SD reduction by %d."	0
+1125	"When Poison Storm skill is cast on targets affected by Toxic, a Toxic explosion damage is applied. Upgrading additional options will apply them to the skill."	"null"	-1
+1126	"When Frozen Slayer skill is cast on targets affected by Frostbite, a Frostbite explosion damage is applied. Upgrading additional options will apply them to the skill."	"null"	-1
+1127	"When Bleeding Hit skill is cast on targets affected by Severe Bleeding, a Severe Bleeding explosion damage is applied. Upgrading additional options will apply them to the skill."	"null"	-1
+1129	"Increases the explosion DMG of Poison Storm by %d."	"Increases the DMG of Poison Storm by %d."	0
+1130	"Increases the explosion DMG of Frozen Slayer by %d."	"Increases the DMG of Frozen Slayer by %d."	0
+1131	"Increases the explosion DMG of Bloodying Hit by %d."	"Increases the DMG of Bloodying Hit by %d."	0
+1133	"Debuff spreads to %d targets surrounding the target damaged by Poison Storm. Debuff stage on affected targets are increased by 1. (Normal > Poison > Toxic)"	"null"	0
+1134	"Debuff spreads to %d targets surrounding the target damaged by Frozen Slayer. Debuff stage on affected targets are increased by 1. (Normal > Frozen > Frostbite)"	"null"	0
+1135	"Debuff spreads to %d targets surrounding the target damaged by Bleeding Hit. Debuff stage on affected targets are increased by 1. (Normal > Bleeding > Severe Bleeding)"	"null"	0
+1137	"Increases the Max HP of the player by %d."	"Increases the Max HP of the player by %d."	0
+1138	"Gain %d Stat Point(s) upon enhancement which can be spent on a desired Stat. (Variable Stat)"	"Gain %d Stat Point(s) upon enhancement."	0
+1139	"Increases the basic DEF of the player by %d."	"Increases the basic DEF of the player by %d."	0
+1140	"Increases the wing DEF by %d when 4th wings are equipped."	"Increases the wing DEF by %d when 4th wings are equipped."	0
+1141	"Increases the player's DMG by %d."	"Increases the player's DMG by %d."	0
+1142	"Increases the player's Magic by %d."	"Increases the player's Magic by %d."	0
+1143	"Gain %d Stat Point(s) upon enhancement which can be spent on a desired Stat. (Variable Stat)"	"Gain %d Stat Point(s) upon enhancement."	0
+1144	"Skill DMG increases by %d."	"Skill DMG increases by %d."	0
+1145	"Increases the wing DMG by %d when 4th wings are equipped."	"Increases the wing DMG by %d when 4th wings are equipped."	0
+1146	"Increases the player's DMG and Magic by %d."	"Increases the player's DMG and Magic by %d."	0
+1147	"Increases the DMG of Spirit Hook by %d."	"Increases the DMG of Spirit Hook by %d."	0
+1148	"Increases the DMG of Magic Arrow by %d."	"Increases the DMG of Maggic Arrow by %d."	0
+1149	"Increases the DMG of Plasma Ball by %d."	"Increases the DMG of Plasma Ball by %d."	0
+1150	"Increases the DMG of Lightning Storm by %d."	"Increases the DMG of Lightning Storm by %d."	0
+1151	"Decreases the movement speed and distance of Plasma Ball. #(The duration of Plasma Ball remains the same.)"	"null"	-1
+1152	"Increases the attack speed of Plasma Ball."	"null"	-1
+1153	"Increases the damage area of Splash by %d tile(s)."	"null"	0
+1154	"Increases the number of Splash damage targets by %d."	"null"	0
+1155	"Increases the DMG of Death Scythe by %d."	"Increases the DMG of Death Scythe by %d."	0
+1156	"Increases Curse of weapon by %0.2f%% when attacking with a chained skill."	"Increases Curse of weapon by %0.2f%%."	1
+1157	"Increases Wizardry/Curse by %d."	"Increases Wizardry/Curse by %d."	0
+1158	"Increases the DMG of Sword Inertia by %d."	"Increases the DMG of Sword Inertia by %d."	0
+1159	"Increases the DMG of Bat Flock by %d."	"Increases the DMG of Bat Flock by %d."	0
+1160	"Increases the DMG of Pierce Attack by %d."	"Increases the DMG of Pierce Attack by %d."	0
+1166	"Increases the number of targets affected by debuff within the Poisoning magic field by %d."	"Increases the number of targets affected by debuff within the Poisoning magic field by 2."	0
+1167	"Increases the number of targets affected by debuff within the Toxic magic field by %d."	"Increases the number of targets affected by debuff within the Toxic magic field by 2."	0
+1168	"Increases the number of targets affected by debuff within the Bleeding magic field by %d."	"Increases the number of targets affected by debuff within the Bleeding magic field by 2."	0
+1169	"Increases the number of targets affected by the Severe the Bleeding magic field by %d."	"Increases the number of targets affected by debuff within the Severe Bleeding magic field by 2."	0
+1170	"Increases the number of targets affected by debuff within the Freezing magic field by %d"	"Increases the number of targets affected by debuff within the Freeze magic field by 2."	0
+1171	"Increases the number of targets affected by debuff within the Frostbite magic field by %d."	"Increases the number of targets affected by debuff within the Frostbite magic field by 2."	0
+1172	"Increases the AOE of the Poisoning magic field by %d."	"Increases the AOE of the Poisoning magic field by 2."	0
+1174	"Increases the AOE of the Bleeding magic field by %d."	"Increases the AOE of the Bleeding magic field by 2."	0
+1176	"Increases the AOE of the Freezing magic field by %d."	"Increases the AOE of the Freezing magic field by 2."	0
+1178	"Increases the success chance of inflicting the Poisoning debuff by %d."	"Increases the success chance of inflicting the Poisoning debuff by %d."	0
+1179	"Increases the success chance of inflicting the Toxic debuff by %d."	"Increases the success chance of inflicting the Toxic debuff by %d."	0
+1180	"Increases the success chance of inflicting the Bleeding debuff by %d."	"Increases the success chance of inflicting the Bleeding debuff by %d."	0
+1181	"Increases the success chance of inflicting the Severe Bleeding debuff by %d."	"Increases the success chance of inflicting the Severe Bleeding debuff by %d."	0
+1182	"Increases the success chance of inflicting the Freeze debuff by %d."	"Increases the success chance of inflicting the Freeze debuff by %d."	0
+1183	"Increases the success chance of inflicting the Frostbite debuff by %d."	"Increases the success chance of inflicting the Frostbite debuff by %d."	0
+1184	"Additionally increases the success chance of inflicting the Poisoning debuff by %d."	"Increases the success chance of inflicting the Poisoning debuff by %d."	0
+1185	"Additionally increases the success chance of inflicting the Toxic debuff by %d."	"Increases the success chance of inflicting the Toxic debuff by %d."	0
+1186	"Additionally increases the success chance of inflicting the Bleeding debuff by %d."	"Increases the success chance of inflicting the Bleeding debuff by %d."	0
+1187	"Additionally increases the success chance of inflicting the Severe Bleeding debuff by %d."	"Increases the success chance of inflicting the Severe Bleeding debuff by %d."	0
+1188	"Additionally increases the success chance of inflicting the Freeze debuff by %d."	"Increases the success chance of inflicting the Freeze debuff by %d."	0
+1189	"Additionally increases the success chance of inflicting the Frostbite debuff by %d."	"Increases the success chance of inflicting the Frostbite debuff by %d."	0
+1190	"Increases the number of targets affected by debuff within the Poisoning/Toxic magic field by %d."	"Increases the number of targets affected by debuff within the Poisoning/Toxic magic field by 2."	0
+1191	"Increases the number of targets affected by debuff within the Bleeding/Severe Bleeding magic field by %d."	"Increases the number of targets affected by debuff within the Bleeding/Severe Bleeding magic field by 2."	0
+1192	"Increases the number of targets affected by debuff within the Freezing/Frostbite magic field by %d."	"Increases the number of targets affected by debuff within the Freezing/Frostbite magic field by 2."	0
+1193	"When Lv. 4 Wings(Cape) are equipped, increase Wizardry by %d."	"When Lv. 4 Wings(Cape) are equipped, increase Wizardry by %d."	0
+1194	"When Lv. 4 Wings(Cape) are equipped, increase ATK and Wizardry by %d."	"When Lv. 4 Wings(Cape) are equipped, increase ATK and Wizardry by %d."	0
+1195	"When Lv. 4 Wings(Cape) are equipped, increase Wizardry and Curse by %d."	"When Lv. 4 Wings(Cape) are equipped, increase Wizardry and Curse by %d."	0
+1196	"Additionally increases the explosion damage of Poison Storm by %d."	"Additionally increases the damage of Poison Storm by %d."	0
+1197	"Additionally increases the explosion damage of Frozen Slayer by %d."	"Additionally increases the damage of Frozen Slayer by %d."	0
+1198	"Additionally increases the explosion damage of Bleeding Hit by %d."	"Additionally increases the damage of Bleeding Hit by %d."	0
+1199	"Increases the AOE of the explosion in Poison Storm by %d."	"Increases the AOE of the explosion in Poison Storm by 2."	0
+1200	"Increases the AOE of the explosion in Frozen Slayer by %d."	"Increases the AOE of the explosion in Frozen Slayer by 2."	0
+1201	"Increases the AOE of the explosion in Bleeding Hit by %d."	"Increases the AOE of the explosion in Bleeding Hit by 2."	0
+1202	"Increases the ATK of Strike of Destruction Skill by %d."	"Increases the ATK of Strike of Destruction Skill by %d."	0
+1203	"Increases the ATK of Sword Blow Skill by %d."	"Increases the ATK of Sword Blow Skill by %d."	0
+1204	"When using Strong Blessing Skill, increases Base DEF by %d."	"Increases Base DEF by %d."	0
+1205	"When using Strong Blessing Skill, increases Max. HP by %d."	"Increases Max. HP by %d."	0
+1206	"When using Strong Blessing Skill, increases Party Members' ATK/Wizardry by an additional %d."	"Increases Party Members' ATK/Wizardry by an additional %d."	0
+1207	"When using Strong Blessing Skill, increases HP Conversion rate by an additional %0.2f%%."	"Increases HP Conversion rate by an additional %0.2f%%."	1
+1208	"When using Strong Blessing Skill, increases DMG Conversion rate by an additional %0.2f%%."	"Increases DMG Conversion rate by an additional %0.2f%%."	1
+1209	"When using Strong Blessing Skill, increases Party Members' DEF by %d."	"Increases Party Members' DEF by %d."	0
+1210	"When using Strong Blessing Skill, increases Shield DEF by %d."	"Increases Shield DEF by %d."	0
+1211	"Increases the DMG of Dark Plasma by %d."	"Increases the DMG of Dark Plasma by %d."	0
+1212	"Increases the DMG of Ice Blast by %d."	"Increases the DMG of Ice Blast by %d."	0
+1213	"Increases the DMG of Bursting Flare by %d."	"Increases the DMG of Bursting Flare by %d."	0
+1214	"Increases the DMG of Chaos Blade by %d."	"Increases the DMG of Chaos Blade by %d."	0
+1215	"Increases the DMG of Havok Spear by %d."	"Increases the DMG of Havok Spear by %d."	0
+1216	"Increases the DMG of Spear Storm by %d. "	"Increases the DMG of Spear Storm by %d. "	0
+1217	"Increases the DMG of Marble Burst by %d."	"Increases the DMG of Marble Burst by %d."	0
+1218	"Increases the DMG of Unleash Marble by %d."	"Increases the DMG of Unleash Marble by %d."	0
+1219	"Increases the DMG of Ultimate Force by %d."	"Increases the DMG of Ultimate Force by %d."	0
+1220	"Increases the DMG of Shining Bird by %d."	"Increases the DMG of Shining Bird by %d."	0
+1221	"Increases the DMG of Violent Dragon by %d."	"Increases the DMG of Violent Dragon by %d."	0
+1222	"Increases the ATK of Raining Arrow by %d."	"Increases the ATK of Raining Arrow by %d."	0
+1223	"Increases the ATK of Holy Bolt by %d."	"Increases the ATK of Holy Bolt by %d."	0
+1224	"Increases Elemental Attack Enhancement effect by %d."	"Increases Elemental Attack Enhancement effect by %d."	0
+1225	"Increases Elemental Defense Enhancement effect by %d."	"Increases Elemental Defense Enhancement effect by %d."	0
+1226	"Increases Healing rate by %d."	"Increases Healing rate by %d."	0
+1227	"Increases Party Healing rate by %d."	"Increases Party Healing rate by %d."	0
+1228	"Increases Attack Enhancement effect by %d."	"Increases Attack Enhancement effect by %d."	0
+1229	"Increases Defense Enhancement effect by %d."	"Increases Defense Enhancement effect by %d."	0
+1230	"Increases Bless skill's Stat Increase effect by %d."	"Increases Bless skill's Stat Increase effect by %d."	0
+1231	"Increases the damage of the Charge Slash skill by %d."	"Increases the damage of the Charge Slash skill by %d."	0
+1232	"Windglaive skill damage increased by %d."	"Windglaive skill damage increased by %d."	0
+1233	"Bladestorm skill damage increased by %d."	"Bladestorm skill damage increased by %d."	0
+1235	"Oversting skill's attack power increases by %d."	"The attack power of the Oversting skill increases by %d."	0
+1236	"Wildbreath skill's attack power increases by %d."	"The attack power of Wildbreath skill increases by %d."	0
+1237	"Success: The attack power of the Flame Sword skill has increased by %d."	"Success: The attack power of the Flame Sword skill has increased by %d."	0
+1238	"Success: The attack power of the Electric Shock skill has increased by %d."	"Success: The attack power of the Electric Shock skill has increased by %d."	0
+1239	"Success: The attack power of the Knight's Strike skill has increased by %d."	"Success: The attack power of the Knight's Strike skill has increased by %d."	0
+1240	"The attack power of the Spirit Blast skill increases by %d."	"The attack power of the Spirit Blast skill increases by %d."	0
+1241	"When Strengthening, %d stat points are provided, and you can use the %d stats wherever you want."	0
+1242	"When Strengthening, %d stat points are provided, and you can use the %d stats wherever you want."	0
+1504	"The attack power of the Runic Spear skill increases by %d."	"The attack power of the Runic Spear skill increases by %d."	0
+1505	"The attack power of the Rune Phrase skill increases by %d."	"The attack power of the Rune Phrase skill increases by %d."	0
+1506	"Divine Pole skill attack power increases by %d."	"Divine Pole skill attack power increases by %d."	0
+1507	"Holy Sweep skill attack power increases by %d."	"Holy Sweep skill attack power increases by %d."	0
+1508	"Sacred Impact skill attack power increases by %d."	"Sacred Impact skill attack power increases by %d."	0
+end					

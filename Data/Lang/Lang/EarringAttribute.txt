@@ -1,0 +1,166 @@
+0		
+1	20	40	40	0	0											
+end																
+1		
+															
+1	"Anger I"	"Anger I"	19	1	23	4	18	6	16	6	11	0	1	12	449	
+																
+2	"Ancestor I"	"Ancestor I"	19	1	28	4	29	6	30	6	11	0	2	12	450	
+																
+3	"Honor I"	"Honor I"	19	1	28	4	29	6	30	6	11	0	3	12	451	
+																
+4	"Blood I"	"Blood I"	19	1	28	4	29	6	30	6	11	0	4	12	452	
+																
+5	"Dazzle I"	"Dazzle I"	19	1	28	4	29	6	30	6	11	0	5	12	453	
+
+6	"Unity I"	"Unity I"	19	1	28	4	29	6	30	6	11	0	6	12	454
+																
+7	"Verdant I"	"Verdant I"	19	1	28	4	29	6	30	6	11	0	7	12	455	
+																
+8	"Cold I"	"Cold I"	19	1	28	4	29	6	30	6	11	0	8	12	456	
+																
+															
+9	"Anger II"	"Anger II"	9	5	17	2	15	2	14	3	12	0	1	12	457	
+																
+10	"Ancestor II"	"Ancestor II"	9	5	17	2	15	2	14	3	12	0	2	12	458	
+																
+11	"Honor II"	"Honor II"	9	5	17	2	15	2	14	3	12	0	3	12	459	
+																
+12	"Blood II"	"Blood II"	9	5	17	2	15	2	14	3	12	0	4	12	460	
+																
+13	"Dazzle II"	"Dazzle II"	9	5	17	2	15	2	14	3	12	0	5	12	461
+																
+14	"Unity II"	"Unity II"	9	5	17	2	15	2	14	3	12	0	6	12	462
+																
+15	"Verdant II"	"Verdant II"	9	5	17	2	15	2	14	3	12	0	7	12	463	
+
+16	"Cold II"	"Cold II"	9	5	17	2	15	2	14	3	12	0	8	12	464	
+																
+17	"Compassion I"	"Compassion I"	19	1	28	4	29	6	30	6	11	0	9	21	6	
+																
+18	"Compassion II"	"Compassion II"	9	5	17	2	15	2	14	3	12	0	9	21	7	
+																
+end																
+2		
+1	9	"Anger I"	21	7	24	2	-1	-1								
+2	10	"Ances I"	21	7	24	2	-1	-1								
+3	11	"Honor I"	21	7	24	2	-1	-1								
+4	12	"Blood I"	21	7	24	2	31	8								
+5	13	"Dazzle I"	21	7	24	9	31	8
+6	14	"Unity I"	21	7	24	9	31	8									
+7	15	"Verdant I"	21	7	24	9	31	8								
+8	16	"Cold I"	21	7	24	9	31	8							
+17	18	"Compass"	21	7	24	9	31	8		
+end																
+3		
+0	600000	13	510	1	-1	-1	-1	-1	-1	-1	1000000					
+1	600000	13	510	2	-1	-1	-1	-1	-1	-1	1500000					
+2	600000	13	510	2	-1	-1	-1	-1	-1	-1	2000000					
+3	600000	13	510	2	-1	-1	-1	-1	-1	-1	2500000					
+4	600000	13	510	3	-1	-1	-1	-1	-1	-1	3000000					
+5	600000	13	510	3	-1	-1	-1	-1	-1	-1	3500000					
+6	600000	13	510	4	-1	-1	-1	-1	-1	-1	4000000					
+7	600000	13	510	4	-1	-1	-1	-1	-1	-1	4500000					
+8	600000	13	510	4	-1	-1	-1	-1	-1	-1	5000000					
+9	600000	13	510	5	-1	-1	-1	-1	-1	-1	5500000					
+10	600000	13	510	5	-1	-1	-1	-1	-1	-1	6000000					
+11	600000	13	510	5	-1	-1	-1	-1	-1	-1	6500000					
+12	600000	13	510	5	-1	-1	-1	-1	-1	-1	7000000					
+13	600000	13	510	5	-1	-1	-1	-1	-1	-1	7500000					
+14	600000	13	510	5	-1	-1	-1	-1	-1	-1	8000000					
+end																
+4		
+//Rage
+0	1500	1	    //Max Life / Max Mana Increase
+1	17	1	    //Skill Damage Increase
+2	4	1	    //Excellent / Critical Damage Rate Increase
+3	10	1	    //AG Auto Recovery Amount Increase
+4	20	1	    //Attack Power / Wizardry Increase
+5	7	1	    //Attack Speed Increase
+6	35	1	    //Attack Power Increase and Critical Damage Power Increase
+7	1	1	    //Ignore enemy defense
+//Ancestral
+0	3000	2	    //Max Life / Max Mana Increase
+1	19	2	    //Skill Damage Increase
+2	5	2	    //Excellent / Critical Damage Rate Increase
+3	10	2	    //AG Auto Recovery Amount Increase
+4	0	2	    //Attack Power / Wizardry Increase
+5	7	2	    //Attack Speed Increase
+6	1	2	    //Attack Power Increase and Critical Damage Power Increase
+7	2	2	    //Ignore enemy defense
+//Honor
+0	6000	3	    //Max Life / Max Mana Increase
+1	21	3	    //Skill Damage Increase
+2	6	3	    //Excellent / Critical Damage Rate Increase
+3	10	3	    //AG Auto Recovery Amount Increase
+4	2	3	    //Attack Power / Wizardry Increase
+5	7	3	    //Attack Speed Increase
+6	3	3	    //Attack Power Increase and Critical Damage Power Increase
+7	3	3	    //Ignore enemy defense
+//Blood
+0	12500	4	    //Max Life / Max Mana Increase
+1	23	4	    //Skill Damage Increase
+2	7	4	    //Excellent / Critical Damage Rate Increase
+3	10	4	    //AG Auto Recovery Amount Increase
+4	4	4	    //Attack Power / Wizardry Increase
+5	7	4	    //Attack Speed Increase
+6	5	4	    //Attack Power Increase and Critical Damage Power Increase
+7	4	4	    //Ignore enemy defense
+8	6	4	    //Damage Increase
+//Daze
+0	25000	5	//Max Life / Max Mana Increase
+1	250	5	    //Skill Damage Increase
+2	8	5	    //Excellent / Critical Damage Rate Increase
+3	10	5	    //AG Auto Recovery Amount Increase
+4	7	5	    //Attack Power / Wizardry Increase
+5	7	5	    //Attack Speed Increase
+6	8	5	    //Attack Power Increase and Critical Damage Power Increase
+7	6	5	    //Ignore enemy defense
+8	9	5	    //Damage Increase
+9	250	5	    //Mastery All Stats Increase
+//S18.2-1
+//Unity
+0	50000	6	//Max Life / Max Mana Increase
+1	500	6	    //Skill Damage Increase
+2	10	6	    //Excellent / Critical Damage Rate Increase
+3	10	6	    //AG Auto Recovery Amount Increase
+4	10	6	    //Attack Power / Wizardry Increase
+5	20	6	    //Attack Speed Increase
+6	12	6	    //Attack / Wiz Increase and Critical / Excellent Damage Power Increase
+7	8	6	    //Ignore enemy defense
+8	12	6	    //Damage Increase
+9	500	6	    //Mastery All Stats Increase
+//Verdant
+0	75000	7	//Max Life / Max Mana Increase
+1	750	7	    //Skill Damage Increase
+2	10	7	    //Excellent / Critical Damage Rate Increase
+3	10	7	    //AG Auto Recovery Amount Increase
+4	13	7	    //Attack Power / Wizardry Increase
+5	30	7	    //Attack Speed Increase
+6	14	7	    //Attack / Wiz Increase and Critical / Excellent Damage Power Increase
+7	10	7	    //Ignore enemy defense
+8	12	7	    //Damage Increase
+9	750	7	//Mastery All Stats Increase
+//Frosty
+0	100000	8	//Max Life / Max Mana Increase
+1	1000	8	    //Skill Damage Increase	
+2	15	8	    //Excellent / Critical Damage Rate Increase	
+3	10	8	    //AG Auto Recovery Amount Increase	
+4	16	8	    //Attack Power / Wizardry Increase	
+5	50	8	    //Attack Speed Increase	
+6	17	8	    //Attack / Wiz Increase and Critical / Excellent Damage Power Increase	
+7	12	8	    //Ignore enemy defense	
+8	15	8	    //Damage Increase	
+9	1000	8	//Mastery All Stats Increase
+//Compassion
+0	200000	9		//Max Life / Max Mana Increase
+1	1500	9	    //Skill Damage Increase	
+2	20	9	    //Excellent / Critical Damage Rate Increase	
+3	10	9	    //AG Auto Recovery Amount Increase		
+4	19	9	    //Attack Power / Wizardry Increase		
+5	100	9	    //Attack Speed Increase		
+6	20	9	    //Attack / Wiz Increase and Critical / Excellent Damage Power Increase		
+7	17	9	    //Ignore enemy defense		
+8	21	9	    //Damage Increase	
+9	1500	9	//Mastery All Stats Increase
+end																

@@ -1,0 +1,99 @@
+0	
+0	"Damage Count Increase"	-1	
+1	"Attack Speed Increase"	-1	
+2	"Range Increase"	-1	
+3	"Splash Damage Increase"	-1	
+4	"Target Defense Reduction"	-1	
+65	"HP Increase"	0	
+66	"MP Increase"	0	
+67	"AG Increase"	0	
+end			
+1	
+0	"Defense Increase"	0	
+1	"Shield Defense Increase"	0	
+2	"5th Wing Defense Increase"	0	
+3	"Extra Defense Increase"	0	
+4	"Elemental Defense Increase"	0	
+5	"Fire Elemental Defense Increase"	0	
+6	"Water Elemental Defense Increase"	0	
+7	"Earth Elemental Defense Increase"	0	
+8	"Wind Elemental Defense Increase"	0	
+9	"Dark Elemental Defense Increase"	0	
+10	"Pentagram Defense Increase"	0	
+11	"Attack Success Rate Increase"	0	
+12	"Defense Success Rate Increase"	0	
+13	"Elemental Attack Success Rate Increase"	0	
+14	"Elemental Defense Success Rate Increase"	0	
+15	"Strength Stat increase (variable)"	0	
+16	"Agility Stat Increase (variable)"	0	
+17	"Stamina Stat Increase (variable)"	0	
+18	"Energy Stat Increase (variable)"	0	
+19	"Minimum Attack Power Increase"	0	
+20	"Minimum Wizardry Increase"	0	
+21	"Minimum Curse Increase"	0	
+22	"Maximum Attack Power Increase"	0	
+23	"Maximum Wizardry Increase"	0	
+24	"Maximum Curse Increase"	0	
+25	"Mastery Attack Power Increase"	0	
+26	"Mastery Wizardry Increase"	0	
+27	"Mastery Curse Increase"	0	
+28	"Attack Power Increase per 20 Levels"	0	
+29	"Nuke Attack Power Increase"	0	
+30	"Bolt Attack Power Increase"	0	
+31	"Area Attack Power Increase"	0	
+32	"Extra Attack Power Increase"	0	
+33	"Critical Damage Increase"	0	
+34	"Excellent Damage Increase"	0	
+35	"Double Damage Increase"	0	
+36	"5th Wing Attack Power Increase"	0	
+37	"Bleeding Damage Increase"	0	
+38	"Excessive Bleeding Damage Increase"	0	
+39	"Poison Damage Increase"	0	
+40	"Toxic Damage Increase"	0	
+41	"Skill Damage Increase"	0	
+42	"Fire Elemental Damage Increase"	0	
+43	"Water Elemental Damage Increase"	0	
+44	"Earth Elemental Damage Increase"	0	
+45	"Wind Elemental Damage Increase"	0	
+46	"Dark Elemental Damage Increase"	0	
+47	"Pentagram Damage Increase"	0	
+48	"Elemental Damage Increase"	0	
+49	"Extra Critical Rate"	1	
+50	"Critical Damage Rate"	1	
+51	"1-Slot Skill Attack Power Increase"	0	
+52	"Complete Life Recovery Rate"	1	
+53	"Double Damage Rate"	1	
+54	"Extra Excellent Rate"	1	
+55	"Excellent Damage Rate"	1	
+56	"2-Slot Skill Attack Power Increase"	0	
+57	"Complete Mana Recovery Rate"	1	
+58	"Ignore Enemy Defense Rate"	1	
+59	"Extra Double Ddamage Rate"	1	
+60	"Triple Damage Rate"	1	
+61	"3-Slot Skill Attack Power Increase"	0	
+62	"AG Recovery Amount Increase"	0	
+63	"(Enhancement Skill, Ability Skill) Additional Damage Rate"	1	
+64	"Shock Defense Success Rate Increase (Not Applicable in PvP)"	0	
+65	"HP Increase"	0	
+66	"MP Increase"	0	
+67	"AG Increase"	0	
+68	"Nuke Critical Rate"	1	
+69	"Bolt Critical Rate"	1	
+70	"Area Critical Rate"	1	
+71	"Nuke Excellent Rate"	1	
+72	"Bolt Excellent Rate"	1	
+73	"Area Excellent Rate"	1	
+74	"Nuke Double Damage Rate"	1	
+75	"Bolt Double Damage Rate"	1	
+76	"Area Double Damage Rate"	1	
+77	"Nuke Triple Damage Rate"	1	
+78	"Bolt Triple Damage Rate"	1	
+79	"Area Triple Damage Rate"	1	
+80	"[Extra Damage] Nuke"	0	
+81	"[Extra Damage] Bolt"	0	
+82	"[Extra Damage] Area"	0	
+83	"5th Wing Wizardry Increase"	0	
+84	"5th Wing Curse Increase"	0	
+85	"Wizardry Increase per 20 Levels"	0	
+86	"Curse Increase per 20 Levels"	0	
+end

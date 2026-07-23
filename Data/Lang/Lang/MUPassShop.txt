@@ -1,0 +1,17 @@
+1	14	493	0	2500	"Temporary Wing Box"		
+2	20	43	1	500	"Bloodangel Chaos Fragment (Bound)"		
+3	20	44	1	600	"Darkangel Chaos Fragment (Bound)"
+4	20	45	1	700	"Holyangel Chaos Fragment (Bound)"
+5	20	46	1	700	"Soul Chaos Fragment (Bound)"
+6	20	47	1	700	"Blue Eye Chaos Fragment (Bound)"
+7	20	48	1	700	"Silver Heart Chaos Fragment (Bound)"
+8	20	49	1	700	"Manticore Chaos Fragment (Bound)"
+9	20	81	1	700	"Brilliant Chaos Fragment (Bound)"		
+10	20	87	1	700	"Apocalypse Chaos Fragment (Bound)"		
+11	14	471	10	100	"Sealed Armor Fragment X10"		
+12	14	42	0	30	"Jewel of Harmony"		
+13	14	53	10	50	"Talisman of Luck"		
+14	14	189	10	45	"Elemental Talisman of Luck"		
+15	14	486	0	100	"Ruud Box 1500"		
+end		
+				

@@ -1,0 +1,163 @@
+////////////////////////////////////////////////////////////////////////////////	
+//[ Script ]	MonsterSoulConversionDropInfo
+//[ Version ]	0.0.0.1
+//[ 최종 작업자 ]	박혜진
+//[ 최종 작업일 ]	2019-02-20 2:56 PM
+//[ 작 업 내 용 ]	Season14 Part2 몬스터 영혼 변환 컨텐츠 신규 추가
+//[ 사 용 부 서 ]	클라이언트
+////////////////////////////////////////////////////////////////////////////////	
+//고유번호
+1	
+// 루드	
+//보상 종류 번호	
+1	
+//보상 구분	정보
+0	"Guaranteed - 5.000 Ruud"
+1	"Random - 5.000 ~ 7.500 Ruud"
+end	
+// 보석 아이템류	
+//보상 종류 번호	
+2	
+//보상 구분	정보
+0	""
+1	"Random - Jewel of Life (x10), Jewel of Harmony (x10), Jewel of Creation (x10), Jewel of Chaos (x10)"
+end	
+// 속성 아이템류	
+//보상 종류 번호	
+3	
+//보상 구분	정보
+0	"Guaranteed - Elemental Rune (x10)"
+1	"Random - Pentagram Level 180"
+end	
+// 액세서리 아이템류	
+//보상 종류 번호	
+4	
+//보상 구분	정보
+0	""
+1	"Random - xRing or xPend"
+end	
+end	
+//고유번호	
+2	
+// 루드	
+//보상 종류 번호	
+1	
+//보상 구분	정보
+0	"Guaranteed - 7.500 Ruud"
+1	"Random - 7.500 ~ 10.000 Ruud"
+end	
+// 보석 아이템류	
+//보상 종류 번호	
+2	
+//보상 구분	정보
+0	""
+1	"Random - Jewel of Life (x20), Jewel of Harmony (x20), Jewel of Creation (x20), Jewel of Chaos (x20)"
+end	
+// 속성 아이템류	
+//보상 종류 번호	
+3	
+//보상 구분	정보
+0	"Guaranteed - Elemental Rune (x30)"
+1	"Random - Pentagram Level 180"
+end
+// 액세서리 아이템류	
+//보상 종류 번호	
+4	
+//보상 구분	정보
+0	""
+1	"Random - xRing or xPend or Earring (Left)"
+end	
+end	
+//고유번호	
+3	
+// 루드	
+//보상 종류 번호	
+1	
+//보상 구분	정보
+0	"Guaranteed - 10.000 Ruud"
+1	"Random - 10.000 ~ 12.500 Ruud"
+end	
+// 보석 아이템류	
+//보상 종류 번호	
+2	
+//보상 구분	정보
+0	""
+1	"Random - Jewel of Life (x30), Jewel of Harmony (x30), Jewel of Creation (x30), Jewel of Chaos (x30)"
+end	
+// 속성 아이템류	
+//보상 종류 번호	
+3	
+//보상 구분	정보
+0	"Guaranteed - Elemental Rune (x30)"
+1	"Random - Pentagram Level 300 Semi-Pr0"
+end
+// 액세서리 아이템류	
+//보상 종류 번호	
+4	
+//보상 구분	정보
+0	""
+1	"Random - xRing or xPend or Earring (Right)"
+end	
+end	
+//고유번호	
+4	
+// 루드	
+//보상 종류 번호	
+1	
+//보상 구분	정보
+0	"Guaranteed - 12.500 Ruud"
+1	"Random - 12.500 ~ 15.000 Ruud"
+end	
+// 보석 아이템류	
+//보상 종류 번호	
+2	
+//보상 구분	정보
+0	""
+1	"Random - Jewel of Life (x40), Jewel of Harmony (x40), Jewel of Creation (x40), Jewel of Chaos (x40)"
+end	
+// 속성 아이템류	
+//보상 종류 번호	
+3	
+//보상 구분	정보
+0	"Guaranteed - Elemental Rune (x50)"
+1	"Random - Pentagram Level 300 Semi-Pr0"
+end
+// 액세서리 아이템류	
+//보상 종류 번호	
+4	
+//보상 구분	정보
+0	""
+1	"Random - xRing or xPend or Earring (Left) or (Right)"
+end	
+end	
+//고유번호	
+5	
+// 루드	
+//보상 종류 번호	
+1	
+//보상 구분	정보
+0	"Guaranteed - 15.000 Ruud"
+1	"Random - 15.000 ~ 20.000 Ruud"
+end	
+// 보석 아이템류	
+//보상 종류 번호	
+2	
+//보상 구분	정보
+0	""
+1	"Random - Jewel of Life (x50), Jewel of Harmony (x50), Jewel of Creation (x50), Jewel of Chaos (x50)"
+end	
+// 속성 아이템류	
+//보상 종류 번호	
+3	
+//보상 구분	정보
+0	"Guaranteed - Elemental Rune (x50)"
+1	"Random - Pentagram Level 300 Pr0"
+end	
+// 액세서리 아이템류	
+//보상 종류 번호	
+4	
+//보상 구분	정보
+0	""
+1	"Random - Earring (Left) or (Right)"
+end	
+end	

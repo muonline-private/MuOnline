@@ -1,0 +1,9 @@
+15	18	27	33	55	1	1	"Damage Decrease %d"	1	25	0
+15	18	27	33	55	1	2	"Damage Decrease %d"	1	50	0
+15	18	27	33	55	1	3	"Damage Decrease %d"	1	100	0
+									
+// ItemKind A-1	ItemKind A-2	ItemKind A-3	ItemKind A-4	ItemKind A-5	OptionNumber	Index	Name	Operator	Value	TextType
+14	-1	-1	-1	-1	2	1	"Increase all stats +%d"	1	10	0
+14	-1	-1	-1	-1	2	2	"Increase all stats +%d"	1	50	0
+14	-1	-1	-1	-1	2	3	"Increase all stats +%d"	1	200	0
+end

@@ -1,0 +1,8 @@
+149	Data\Effect\fog02-blue01.ein	0	0	0	0	0	0	300	0	1	0	0	0	
+162	Data\Effect\sd_ohohroraya-purple01.ein	0	0	0	0	-90	0	300	0	1	0	0	0	
+163	Data\Effect\sd_ohohroraya-green01.ein	0	0	0	0	-90	0	300	0	1	0	0	0	
+165	Data\Effect\twinkle23-blue02.ein	0	0	0	0	0	0	350	0	1	0	0	0	
+166	Data\Effect\hs_Wfire016-blue01.ein	0	0	0	0	0	0	0	1	0	0	0	0	
+90	Data\Effect\twister12-cyan01.ein	0	0	0	0	0	0	200	0	1	0	0	0	
+90	Data\Effect\twister11-cyan01.ein	0	0	0	0	0	0	110	0	1	0	0	0	
+71	Data\Effect\sparkle22-blue01.ein	0	0	0	0	90	0	60	11	1	0	0	0	
