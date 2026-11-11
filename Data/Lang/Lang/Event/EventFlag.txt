@@ -1,2 +1,0 @@
-"Erthel Save Eject"	0
-"SpeedServer Limit Lv800"	1	
